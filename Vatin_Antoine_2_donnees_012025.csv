@@ -1,0 +1,1159 @@
+﻿sexe;age;presence_enfant_conduite_accompagne;presence_enfants;tranche_de_revenus;usage_vehicule;type_vehicule;est_rouge;points_perdus;age_vehicule;type_conduite;date_demande;etat_dossier;formule;tarif_devis;D_aléatoire
+F;26;Non;Oui;[40k€+];Commercial;Sports Car;no;0;7.0;Highly Urban/ Urban;25/02/2022;complet;dev_integral;323,39;63488-1
+F;93;Oui;Oui;[40k€+];Private;Minivan;no;2;1.0;Highly Urban/ Urban;24/05/2022;complet;dev_express;257,56;43548-2
+F;47;Non;Oui;[20k€, 40k€];Private;Pickup;no;0;4.0;z_Highly Rural/ Rural;24/01/2022;complet;dev_express;250,68;65029-3
+F;4;Non;Non;[0, 20k€];Private;z_SUV;no;3;5.0;Highly Urban/ Urban;20/04/2022;complet;dev_integral;300,3;96513-4
+M;69;Non;Non;Inconnus;Commercial;Panel Truck;no;2;12.0;Highly Urban/ Urban;23/03/2022;complet;dev_vip;648,13;64519-5
+F;33;Non;Oui;[40k€+];Private;z_SUV;no;2;15.0;z_Highly Rural/ Rural;23/03/2022;complet;dev_premium;459,83;93035-6
+F;84;Oui;Oui;[40k€+];Commercial;Minivan;no;0;9.0;z_Highly Rural/ Rural;13/03/2022;complet;dev_express;261,28;76995-7
+M;69;Non;Non;[40k€+];Private;z_SUV;no;1;10.0;Highly Urban/ Urban;09/03/2022;complet;dev_premium;343,17;84151-8
+M;69;Non;Non;[40k€+];Private;Minivan;no;0;14.0;Highly Urban/ Urban;29/01/2022;complet;dev_premium;389,24;52700-9
+F;51;Non;Non;Inconnus;Commercial;Panel Truck;yes;1;10.0;Highly Urban/ Urban;26/03/2022;complet;dev_integral;310,66;14095-10
+F;58;Oui;Oui;[20k€, 40k€];Private;Minivan;no;0;10.0;Highly Urban/ Urban;26/05/2022;complet;dev_express;261,6;60311-11
+M;8;Non;Oui;[20k€, 40k€];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;27/01/2022;complet;dev_premium;380,99;84881-12
+F;75;Non;Non;[40k€+];Private;z_SUV;no;0;18.0;Highly Urban/ Urban;08/05/2022;complet;dev_express;251,44;19075-13
+M;8;Non;Non;[0, 20k€];Commercial;Van;no;5;6.0;z_Highly Rural/ Rural;02/05/2022;complet;dev_integral;307,66;14603-14
+M;80;Non;Oui;[20k€, 40k€];Private;Minivan;no;0;1.0;Highly Urban/ Urban;15/04/2022;complet;dev_integral;302,89;35647-15
+M;87;Non;Non;[40k€+];Private;Minivan;no;0;13.0;Highly Urban/ Urban;11/05/2022;complet;dev_express;279,3;11512-16
+F;52;Non;Non;[40k€+];Private;z_SUV;no;0;15.0;Highly Urban/ Urban;12/04/2022;complet;dev_integral;321,99;68903-17
+F;89;Non;Non;[40k€+];Commercial;Van;yes;1;8.0;Highly Urban/ Urban;04/03/2022;complet;dev_express;278,63;98694-18
+F;70;Non;Non;[40k€+];Private;Minivan;yes;0;11.0;Highly Urban/ Urban;05/02/2022;complet;dev_express;271,83;87028-19
+F;85;Non;Non;[40k€+];Private;z_SUV;no;0;10.0;Highly Urban/ Urban;25/04/2022;complet;dev_integral;287,68;37876-20
+M;37;Non;Oui;[40k€+];Private;Minivan;no;0;16.0;z_Highly Rural/ Rural;20/03/2022;complet;dev_express;270,39;44492-21
+M;94;Oui;Oui;[20k€, 40k€];Private;Minivan;no;1;;Highly Urban/ Urban;27/03/2022;complet;dev_premium;376,14;42844-22
+F;25;Non;Non;Inconnus;Commercial;Van;yes;0;7.0;Highly Urban/ Urban;16/05/2022;complet;dev_premium;372,97;78050-23
+F;84;Non;Oui;[40k€+];Commercial;Sports Car;no;5;1.0;Highly Urban/ Urban;06/02/2022;complet;dev_premium;455,67;56263-24
+M;21;Non;Non;[20k€, 40k€];Commercial;Pickup;no;1;1.0;Highly Urban/ Urban;27/04/2022;complet;dev_express;260,6;41053-25
+M;68;Non;Non;Inconnus;Private;Minivan;yes;1;;z_Highly Rural/ Rural;13/04/2022;complet;dev_express;257,29;89809-26
+F;27;Non;Non;[40k€+];Private;Sports Car;no;0;1.0;z_Highly Rural/ Rural;22/03/2022;complet;dev_integral;285,83;89831-27
+F;47;Non;Non;[40k€+];Private;z_SUV;no;5;;Highly Urban/ Urban;22/04/2022;complet;dev_integral;282,37;85986-28
+F;56;Non;Non;[40k€+];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;23/03/2022;complet;dev_vip;871,83;25929-29
+F;19;Non;Non;[40k€+];Private;z_SUV;no;0;17.0;Highly Urban/ Urban;12/02/2022;complet;dev_premium;351,23;76528-30
+F;51;Non;Oui;[20k€, 40k€];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;14/01/2022;complet;dev_express;257,94;42520-31
+M;41;Non;Oui;[20k€, 40k€];Commercial;Minivan;yes;6;5.0;z_Highly Rural/ Rural;09/04/2022;complet;dev_integral;320,63;30180-32
+F;68;Non;Non;[40k€+];Private;z_SUV;no;3;9.0;Highly Urban/ Urban;23/03/2022;complet;dev_express;257,69;54925-33
+M;7;Non;Non;[20k€, 40k€];Private;z_SUV;no;2;6.0;z_Highly Rural/ Rural;04/02/2022;complet;dev_premium;406,26;15568-34
+M;47;Oui;Oui;[40k€+];Private;Sports Car;no;0;12.0;Highly Urban/ Urban;05/02/2022;complet;dev_express;269;30975-35
+F;71;Non;Non;[20k€, 40k€];Private;z_SUV;no;0;9.0;Highly Urban/ Urban;08/02/2022;complet;dev_integral;302,56;20551-36
+F;64;Non;Non;[20k€, 40k€];Commercial;Sports Car;no;0;15.0;Highly Urban/ Urban;06/02/2022;complet;dev_express;264,33;29314-37
+F;9;Non;Oui;[40k€+];Private;z_SUV;no;2;14.0;Highly Urban/ Urban;09/02/2022;complet;dev_integral;284,9;83629-38
+F;58;Non;Non;[40k€+];Private;Minivan;no;0;15.0;Highly Urban/ Urban;26/05/2022;complet;dev_integral;280,03;94401-39
+M;37;Non;Non;[40k€+];Private;z_SUV;no;1;11.0;z_Highly Rural/ Rural;04/03/2022;complet;dev_premium;416,72;42113-40
+F;21;Oui;Oui;Inconnus;Private;Sports Car;no;0;10.0;Highly Urban/ Urban;31/05/2022;complet;dev_express;260,27;40172-41
+F;88;Non;Oui;[0, 20k€];Private;z_SUV;no;5;8.0;Highly Urban/ Urban;30/04/2022;complet;dev_express;257,99;12819-42
+M;62;Non;Oui;[0, 20k€];Commercial;Pickup;yes;0;10.0;Highly Urban/ Urban;20/03/2022;complet;dev_express;260,17;14476-43
+F;60;Oui;Oui;[40k€+];Private;Pickup;yes;0;;Highly Urban/ Urban;02/04/2022;complet;dev_premium;417,16;88005-44
+M;55;Non;Non;[40k€+];Private;z_SUV;no;0;13.0;Highly Urban/ Urban;02/01/2022;complet;dev_integral;324,91;81823-45
+F;68;Non;Non;[40k€+];Private;z_SUV;no;4;15.0;Highly Urban/ Urban;24/02/2022;complet;dev_express;262,87;23746-46
+M;79;Non;Oui;[0, 20k€];Private;z_SUV;no;1;1.0;Highly Urban/ Urban;05/04/2022;complet;dev_express;278,71;81317-47
+F;44;Non;Non;[40k€+];Commercial;Panel Truck;yes;1;13.0;Highly Urban/ Urban;21/02/2022;complet;dev_integral;309,66;61400-48
+M;80;Non;Non;[40k€+];Commercial;Van;yes;0;7.0;Highly Urban/ Urban;21/03/2022;complet;dev_integral;281,99;86935-49
+F;41;Oui;Oui;[40k€+];Private;Van;yes;1;1.0;z_Highly Rural/ Rural;03/04/2022;complet;dev_integral;295,63;12762-50
+F;27;Non;Non;[20k€, 40k€];Commercial;Pickup;yes;7;1.0;Highly Urban/ Urban;28/03/2022;complet;dev_integral;311,33;16244-51
+F;51;Non;Oui;[40k€+];Private;Minivan;no;1;5.0;Highly Urban/ Urban;21/03/2022;complet;dev_express;272,78;40033-52
+M;22;Non;Non;[40k€+];Private;Minivan;no;0;7.0;Highly Urban/ Urban;23/05/2022;complet;dev_express;283,84;30971-53
+F;50;Non;Non;[40k€+];Private;Sports Car;no;0;19.0;Highly Urban/ Urban;03/05/2022;complet;dev_express;278,62;45589-54
+F;9;Non;Non;[40k€+];Commercial;Minivan;no;5;8.0;z_Highly Rural/ Rural;11/04/2022;complet;dev_express;266,25;29371-55
+M;51;Non;Non;[40k€+];Private;Van;no;0;13.0;Highly Urban/ Urban;05/01/2022;complet;dev_premium;374,18;39143-56
+F;58;Non;Oui;[40k€+];Commercial;Van;yes;4;9.0;Highly Urban/ Urban;14/05/2022;complet;dev_integral;293;30420-57
+M;35;Non;Non;[40k€+];Private;z_SUV;no;2;12.0;Highly Urban/ Urban;20/04/2022;complet;dev_express;255,32;29192-58
+F;75;Oui;Oui;[20k€, 40k€];Private;Van;yes;0;1.0;Highly Urban/ Urban;22/01/2022;complet;dev_express;267,14;33592-59
+F;33;Oui;Oui;[20k€, 40k€];Private;Sports Car;no;1;7.0;Highly Urban/ Urban;26/04/2022;complet;dev_express;254,03;10371-60
+F;75;Non;Non;[40k€+];Private;Minivan;no;0;16.0;Highly Urban/ Urban;23/03/2022;complet;dev_integral;298,3;49039-61
+F;57;Non;Non;[40k€+];Private;Pickup;no;0;8.0;Highly Urban/ Urban;27/04/2022;complet;dev_express;259,8;91425-62
+F;73;Non;Oui;[40k€+];Commercial;Van;no;0;5.0;Highly Urban/ Urban;24/05/2022;complet;dev_integral;289,65;51859-63
+F;83;Non;Oui;[20k€, 40k€];Private;Sports Car;no;0;1.0;Highly Urban/ Urban;09/05/2022;complet;dev_express;252,04;22335-64
+F;6;Non;Non;[0, 20k€];Private;z_SUV;no;0;6.0;Highly Urban/ Urban;22/04/2022;complet;dev_integral;284,73;41913-65
+M;53;Non;Non;[40k€+];Private;z_SUV;no;5;1.0;Highly Urban/ Urban;17/05/2022;complet;dev_express;253,32;22655-66
+M;71;Non;Non;[40k€+];Private;Pickup;no;0;7.0;Highly Urban/ Urban;01/05/2022;complet;dev_express;266;25047-67
+M;53;Non;Non;[0, 20k€];Private;Minivan;no;3;5.0;z_Highly Rural/ Rural;29/05/2022;complet;dev_express;258,13;28988-68
+M;75;Non;Oui;[20k€, 40k€];Private;z_SUV;yes;2;13.0;Highly Urban/ Urban;04/04/2022;complet;dev_express;259,15;69534-69
+F;26;Non;Non;[40k€+];Commercial;Pickup;no;1;3.0;Highly Urban/ Urban;27/01/2022;complet;dev_integral;303,74;86058-70
+F;6;Non;Non;[40k€+];Private;z_SUV;no;0;9.0;Highly Urban/ Urban;13/01/2022;complet;dev_integral;304,33;14334-71
+M;37;Non;Non;[40k€+];Private;z_SUV;no;2;12.0;Highly Urban/ Urban;08/01/2022;complet;dev_express;272,22;57421-72
+M;12;Non;Non;[40k€+];Private;Minivan;yes;2;9.0;Highly Urban/ Urban;05/04/2022;complet;dev_integral;289,83;14513-73
+F;82;Non;Oui;[40k€+];Private;Minivan;no;2;9.0;z_Highly Rural/ Rural;14/02/2022;complet;dev_premium;481,13;61657-74
+M;81;Non;Non;[40k€+];Private;Pickup;no;0;8.0;Highly Urban/ Urban;14/01/2022;complet;dev_express;250,31;99351-75
+F;32;Non;Non;[40k€+];Private;z_SUV;no;1;18.0;Highly Urban/ Urban;20/04/2022;complet;dev_integral;312,28;13450-76
+F;75;Non;Non;[40k€+];Commercial;Minivan;no;5;1.0;Highly Urban/ Urban;10/05/2022;complet;dev_express;270,62;69485-77
+M;54;Non;Non;[40k€+];Commercial;Panel Truck;no;4;11.0;Highly Urban/ Urban;24/01/2022;complet;dev_premium;387,55;45383-78
+F;55;Non;Non;[40k€+];Private;Minivan;no;4;6.0;Highly Urban/ Urban;01/02/2022;complet;dev_express;250,56;45575-79
+M;63;Non;Non;[40k€+];Private;Minivan;yes;1;1.0;Highly Urban/ Urban;20/04/2022;complet;dev_premium;365,92;32280-80
+M;85;Non;Non;[0, 20k€];Private;Sports Car;no;0;3.0;z_Highly Rural/ Rural;02/01/2022;complet;dev_express;262,36;60378-81
+M;66;Non;Non;[40k€+];Commercial;Van;yes;0;8.0;z_Highly Rural/ Rural;18/02/2022;complet;dev_express;277,09;94024-82
+F;66;Non;Oui;[20k€, 40k€];Commercial;z_SUV;no;0;4.0;Highly Urban/ Urban;27/04/2022;complet;dev_express;259,21;58908-83
+M;66;Non;Non;[0, 20k€];Private;Sports Car;no;1;;z_Highly Rural/ Rural;09/05/2022;complet;dev_express;250,69;20939-84
+M;64;Non;Non;[40k€+];Commercial;Pickup;yes;2;8.0;Highly Urban/ Urban;14/01/2022;complet;dev_express;283,5;78219-85
+M;43;Non;Non;[40k€+];Private;Minivan;yes;0;9.0;Highly Urban/ Urban;30/03/2022;complet;dev_express;263,27;13198-86
+M;55;Non;Non;Inconnus;Private;Minivan;no;0;17.0;Highly Urban/ Urban;25/01/2022;complet;dev_premium;467,09;49617-87
+F;24;Oui;Oui;[20k€, 40k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;28/05/2022;complet;dev_express;256,57;38533-88
+M;51;Non;Non;[40k€+];Private;Minivan;no;0;13.0;Highly Urban/ Urban;12/02/2022;complet;dev_premium;546,4;10545-89
+M;60;Non;Oui;[40k€+];Private;Sports Car;no;0;2.0;z_Highly Rural/ Rural;11/01/2022;complet;dev_integral;281,17;79460-90
+M;82;Non;Non;[40k€+];Commercial;Minivan;no;3;1.0;Highly Urban/ Urban;15/04/2022;complet;dev_express;268,99;42418-91
+F;13;Non;Oui;[20k€, 40k€];Private;Minivan;no;1;1.0;Highly Urban/ Urban;28/03/2022;complet;dev_premium;363,96;30825-92
+F;7;Non;Non;[40k€+];Private;Sports Car;no;6;1.0;Highly Urban/ Urban;26/02/2022;complet;dev_premium;466,36;63668-93
+M;64;Non;Non;[40k€+];Private;Van;yes;0;1.0;Highly Urban/ Urban;17/01/2022;complet;dev_express;268,35;70902-94
+F;72;Non;Non;[40k€+];Private;Pickup;no;4;11.0;Highly Urban/ Urban;16/04/2022;complet;dev_integral;289,43;32346-95
+F;53;Non;Non;[20k€, 40k€];Commercial;Pickup;yes;1;5.0;z_Highly Rural/ Rural;12/01/2022;complet;dev_integral;300,42;41530-96
+M;63;Non;Non;[20k€, 40k€];Private;Minivan;no;7;1.0;Highly Urban/ Urban;23/03/2022;complet;dev_express;269,18;44945-97
+F;38;Oui;Oui;[40k€+];Private;Minivan;yes;0;6.0;Highly Urban/ Urban;17/04/2022;complet;dev_integral;289,01;47673-98
+M;44;Non;Oui;[40k€+];Private;Van;yes;1;8.0;Highly Urban/ Urban;05/05/2022;complet;dev_integral;336,96;28270-99
+M;21;Non;Non;[40k€+];Commercial;z_SUV;no;0;1.0;Highly Urban/ Urban;28/02/2022;complet;dev_integral;326,68;27712-100
+M;68;Non;Oui;[0, 20k€];Commercial;Pickup;no;2;12.0;Highly Urban/ Urban;12/02/2022;complet;dev_integral;311,52;35906-101
+F;25;Non;Oui;[40k€+];Private;Minivan;no;0;1.0;Highly Urban/ Urban;07/01/2022;complet;dev_integral;316,17;97719-102
+M;54;Non;Non;[40k€+];Private;Minivan;no;6;11.0;Highly Urban/ Urban;07/01/2022;complet;dev_integral;302,17;34533-103
+M;12;Non;Non;[40k€+];Commercial;Panel Truck;yes;4;17.0;Highly Urban/ Urban;12/01/2022;complet;dev_express;280,21;47866-104
+M;63;Non;Non;[40k€+];Private;Minivan;yes;1;12.0;Highly Urban/ Urban;24/05/2022;complet;dev_premium;446,55;85264-105
+M;26;Non;Oui;Inconnus;Commercial;Panel Truck;yes;0;14.0;Highly Urban/ Urban;25/03/2022;complet;dev_integral;296,83;94894-106
+F;74;Oui;Oui;[0, 20k€];Private;Minivan;no;0;5.0;Highly Urban/ Urban;02/01/2022;complet;dev_integral;338,3;55149-107
+M;42;Non;Oui;[40k€+];Commercial;Minivan;yes;1;12.0;z_Highly Rural/ Rural;01/03/2022;complet;dev_integral;318,54;97417-108
+F;60;Non;Oui;[40k€+];Private;Minivan;yes;5;11.0;Highly Urban/ Urban;28/01/2022;complet;dev_express;268,71;44584-109
+M;93;Non;Non;[0, 20k€];Private;z_SUV;no;0;9.0;Highly Urban/ Urban;29/04/2022;complet;dev_premium;368,88;81766-110
+M;55;Non;Non;[40k€+];Commercial;z_SUV;no;0;9.0;Highly Urban/ Urban;20/01/2022;complet;dev_integral;283,7;17205-111
+M;57;Oui;Oui;[40k€+];Commercial;Minivan;no;0;12.0;Highly Urban/ Urban;06/05/2022;complet;dev_express;257,9;69976-112
+M;71;Non;Oui;[0, 20k€];Private;z_SUV;no;0;8.0;Highly Urban/ Urban;14/03/2022;complet;dev_express;262,95;38213-113
+F;67;Non;Oui;[40k€+];Commercial;Minivan;no;2;6.0;Highly Urban/ Urban;20/03/2022;complet;dev_express;284,02;38662-114
+F;58;Non;Non;[40k€+];Private;z_SUV;no;0;14.0;Highly Urban/ Urban;18/01/2022;complet;dev_premium;348,22;96158-115
+F;54;Oui;Oui;[20k€, 40k€];Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;23/01/2022;complet;dev_premium;483,26;90096-116
+F;80;Oui;Oui;[40k€+];Private;Sports Car;no;0;11.0;z_Highly Rural/ Rural;07/01/2022;complet;dev_express;274,9;95524-117
+F;64;Oui;Oui;[0, 20k€];Private;Pickup;no;0;7.0;Highly Urban/ Urban;02/01/2022;complet;dev_integral;306,52;88204-118
+M;11;Oui;Oui;[40k€+];Commercial;Sports Car;no;2;1.0;Highly Urban/ Urban;23/05/2022;complet;dev_integral;339,12;41575-119
+M;6;Non;Non;[40k€+];Private;Minivan;no;0;15.0;Highly Urban/ Urban;29/05/2022;complet;dev_integral;312,73;90917-120
+M;72;Non;Non;[0, 20k€];Private;z_SUV;no;0;13.0;z_Highly Rural/ Rural;09/02/2022;complet;dev_integral;317,97;53079-121
+M;59;Non;Oui;[40k€+];Private;Minivan;yes;2;11.0;Highly Urban/ Urban;17/02/2022;complet;dev_express;271,71;73026-122
+M;72;Non;Non;[40k€+];Private;z_SUV;no;0;12.0;Highly Urban/ Urban;06/05/2022;complet;dev_integral;322,69;18418-123
+F;51;Non;Non;[40k€+];Private;Pickup;yes;0;11.0;Highly Urban/ Urban;25/01/2022;complet;dev_integral;332,12;63877-124
+F;31;Non;Oui;[20k€, 40k€];Private;Van;no;4;9.0;Highly Urban/ Urban;01/01/2022;complet;dev_integral;332,07;94682-125
+M;35;Non;Non;[40k€+];Private;Minivan;no;0;8.0;Highly Urban/ Urban;02/04/2022;complet;dev_integral;292,8;48620-126
+M;71;Non;Non;[40k€+];Private;Minivan;no;2;1.0;Highly Urban/ Urban;14/04/2022;complet;dev_integral;294,25;63462-127
+M;19;Non;Non;[0, 20k€];Commercial;Minivan;yes;7;1.0;z_Highly Rural/ Rural;07/03/2022;complet;dev_express;269,87;25479-128
+M;23;Non;Non;[40k€+];Commercial;Sports Car;no;1;;Highly Urban/ Urban;04/04/2022;complet;dev_premium;504,98;62646-129
+M;61;Non;Non;[40k€+];Private;Minivan;no;1;13.0;Highly Urban/ Urban;20/04/2022;complet;dev_express;254,88;89166-130
+F;72;Non;Oui;[0, 20k€];Private;Sports Car;no;0;13.0;Highly Urban/ Urban;25/02/2022;complet;dev_express;260,4;54617-131
+F;73;Non;Oui;[20k€, 40k€];Private;Minivan;no;8;9.0;Highly Urban/ Urban;28/05/2022;complet;dev_vip;634,21;17321-132
+M;11;Non;Oui;[0, 20k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;18/03/2022;complet;dev_express;254,78;95941-133
+M;58;Non;Non;[20k€, 40k€];Private;Minivan;yes;3;5.0;Highly Urban/ Urban;25/02/2022;complet;dev_express;253,91;34316-134
+F;7;Oui;Oui;[40k€+];Private;z_SUV;no;0;9.0;Highly Urban/ Urban;08/04/2022;complet;dev_integral;282,62;97577-135
+F;93;Non;Oui;[40k€+];Private;Minivan;no;0;16.0;Highly Urban/ Urban;01/05/2022;complet;dev_integral;305,95;52126-136
+M;14;Non;Non;[40k€+];Commercial;Van;yes;2;15.0;Highly Urban/ Urban;27/03/2022;complet;dev_integral;339,55;88847-137
+M;38;Oui;Oui;[40k€+];Commercial;Van;no;4;9.0;Highly Urban/ Urban;11/05/2022;complet;dev_express;269,57;21741-138
+M;54;Non;Oui;[40k€+];Commercial;z_SUV;no;4;1.0;Highly Urban/ Urban;31/05/2022;complet;dev_express;276,1;35957-139
+F;48;Non;Oui;Inconnus;Private;Sports Car;no;6;7.0;Highly Urban/ Urban;24/04/2022;complet;dev_premium;517,22;76691-140
+M;53;Non;Non;[40k€+];Commercial;Sports Car;no;2;9.0;Highly Urban/ Urban;06/03/2022;complet;dev_integral;301,41;68679-141
+F;54;Non;Non;[40k€+];Private;Minivan;no;0;9.0;Highly Urban/ Urban;18/02/2022;complet;dev_integral;295,29;46390-142
+F;8;Non;Oui;[40k€+];Private;Pickup;yes;0;12.0;Highly Urban/ Urban;05/01/2022;complet;dev_integral;322,81;70514-143
+M;84;Non;Non;[40k€+];Private;z_SUV;no;5;15.0;Highly Urban/ Urban;19/02/2022;complet;dev_premium;544,57;96315-144
+M;89;Non;Oui;[0, 20k€];Commercial;z_SUV;no;7;;Highly Urban/ Urban;21/05/2022;complet;dev_express;273,72;56269-145
+M;53;Non;Non;[20k€, 40k€];Private;z_SUV;no;2;11.0;Highly Urban/ Urban;13/05/2022;complet;dev_express;267,85;61984-146
+M;64;Non;Non;[40k€+];Private;z_SUV;no;0;7.0;Highly Urban/ Urban;20/02/2022;complet;dev_integral;322,43;57096-147
+M;43;Oui;Oui;[20k€, 40k€];Private;z_SUV;no;1;10.0;z_Highly Rural/ Rural;16/04/2022;complet;dev_integral;289,44;47727-148
+F;74;Non;Non;[40k€+];Private;z_SUV;no;0;19.0;Highly Urban/ Urban;03/03/2022;complet;dev_integral;283,43;25680-149
+F;78;Non;Non;[40k€+];Private;Minivan;no;0;15.0;z_Highly Rural/ Rural;26/02/2022;complet;dev_express;273,35;68113-150
+M;79;Non;Non;[40k€+];Private;Minivan;no;0;10.0;Highly Urban/ Urban;19/02/2022;complet;dev_integral;337,72;76214-151
+F;66;Non;Non;[40k€+];Private;z_SUV;no;2;5.0;Highly Urban/ Urban;05/03/2022;complet;dev_express;267,54;58883-152
+F;63;Non;Oui;Inconnus;Private;Minivan;yes;3;1.0;Highly Urban/ Urban;11/01/2022;complet;dev_express;256,25;91597-153
+M;33;Non;Non;[20k€, 40k€];Private;Minivan;no;1;4.0;Highly Urban/ Urban;25/03/2022;complet;dev_express;258,99;46140-154
+F;77;Non;Oui;[20k€, 40k€];Commercial;Pickup;yes;0;9.0;z_Highly Rural/ Rural;22/02/2022;complet;dev_integral;299,81;82214-155
+M;84;Oui;Oui;[40k€+];Commercial;Van;yes;0;12.0;Highly Urban/ Urban;14/01/2022;complet;dev_integral;308,1;94374-156
+F;70;Non;Oui;[0, 20k€];Private;Sports Car;no;5;4.0;Highly Urban/ Urban;08/04/2022;complet;dev_express;253,44;89035-157
+M;74;Non;Non;[40k€+];Private;Pickup;no;0;15.0;Highly Urban/ Urban;17/04/2022;complet;dev_integral;320,46;77986-158
+M;86;Non;Non;[40k€+];Commercial;Minivan;yes;0;9.0;z_Highly Rural/ Rural;14/05/2022;complet;dev_integral;329,63;78289-159
+M;67;Non;Non;[40k€+];Commercial;z_SUV;no;6;1.0;Highly Urban/ Urban;02/02/2022;complet;dev_integral;284,13;32163-160
+M;71;Oui;Oui;[40k€+];Private;Sports Car;no;0;8.0;Highly Urban/ Urban;21/05/2022;complet;dev_integral;291,56;91359-161
+M;34;Non;Non;[40k€+];Private;z_SUV;no;2;12.0;Highly Urban/ Urban;09/03/2022;complet;dev_premium;449,91;25056-162
+F;50;Oui;Oui;[40k€+];Private;Minivan;no;1;12.0;z_Highly Rural/ Rural;27/02/2022;complet;dev_integral;336,05;58674-163
+F;73;Non;Oui;[40k€+];Private;Minivan;no;0;14.0;Highly Urban/ Urban;03/04/2022;complet;dev_integral;314,85;93940-164
+F;56;Non;Non;[0, 20k€];Private;Sports Car;no;1;8.0;z_Highly Rural/ Rural;02/04/2022;complet;dev_express;250,86;10139-165
+F;53;Oui;Oui;[0, 20k€];Private;Minivan;no;1;1.0;Highly Urban/ Urban;08/04/2022;complet;dev_express;255,96;60954-166
+F;93;Non;Oui;[40k€+];Private;Sports Car;no;0;17.0;Highly Urban/ Urban;31/05/2022;complet;dev_integral;299,88;53284-167
+F;25;Non;Oui;[40k€+];Commercial;Pickup;yes;0;4.0;Highly Urban/ Urban;16/05/2022;complet;dev_integral;298,12;53696-168
+F;58;Non;Non;[40k€+];Commercial;Panel Truck;no;1;;Highly Urban/ Urban;22/04/2022;complet;dev_integral;286,36;55892-169
+F;75;Non;Non;[20k€, 40k€];Commercial;z_SUV;no;2;11.0;Highly Urban/ Urban;30/05/2022;complet;dev_integral;334,25;64535-170
+M;41;Non;Oui;[40k€+];Private;Pickup;yes;1;11.0;Highly Urban/ Urban;01/02/2022;complet;dev_express;250,29;58837-171
+F;31;Non;Non;[0, 20k€];Commercial;Minivan;no;2;1.0;Highly Urban/ Urban;31/05/2022;complet;dev_integral;339,87;93938-172
+M;58;Non;Non;[40k€+];Commercial;Minivan;no;0;11.0;z_Highly Rural/ Rural;16/02/2022;complet;dev_integral;322,3;42354-173
+F;52;Non;Oui;[40k€+];Private;Minivan;yes;0;20.0;Highly Urban/ Urban;21/05/2022;complet;dev_integral;329,61;41004-174
+M;55;Non;Non;[0, 20k€];Private;z_SUV;no;2;1.0;Highly Urban/ Urban;26/04/2022;complet;dev_express;265,7;20880-175
+M;78;Non;Non;[40k€+];Commercial;Pickup;no;6;;Highly Urban/ Urban;14/01/2022;complet;dev_integral;286,98;73455-176
+F;60;Non;Non;[0, 20k€];Commercial;Van;no;0;12.0;Highly Urban/ Urban;16/02/2022;complet;dev_express;252,05;83740-177
+M;32;Non;Non;Inconnus;Private;Sports Car;no;0;16.0;Highly Urban/ Urban;01/01/2022;complet;dev_express;261,98;36551-178
+M;65;Non;Oui;[0, 20k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;14/01/2022;complet;dev_integral;289,28;65211-179
+F;57;Non;Oui;[40k€+];Commercial;Van;yes;0;6.0;Highly Urban/ Urban;10/05/2022;complet;dev_premium;539,36;32575-180
+F;84;Non;Non;[40k€+];Commercial;Pickup;no;1;;Highly Urban/ Urban;02/05/2022;complet;dev_express;283,26;18083-181
+F;27;Oui;Oui;[20k€, 40k€];Commercial;Van;no;1;6.0;z_Highly Rural/ Rural;10/02/2022;complet;dev_express;278,29;24086-182
+M;55;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;13.0;z_Highly Rural/ Rural;08/01/2022;complet;dev_integral;305,83;85994-183
+F;87;Non;Non;[40k€+];Private;Van;yes;0;10.0;Highly Urban/ Urban;12/01/2022;complet;dev_premium;335,11;13627-184
+F;70;Non;Non;[0, 20k€];Private;Pickup;yes;1;1.0;Highly Urban/ Urban;27/05/2022;complet;dev_express;279,89;15548-185
+M;25;Oui;Oui;[40k€+];Commercial;z_SUV;no;6;5.0;Highly Urban/ Urban;10/04/2022;complet;dev_premium;444,44;12537-186
+F;68;Non;Non;[20k€, 40k€];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;23/03/2022;complet;dev_integral;336,38;64089-187
+F;22;Non;Oui;[0, 20k€];Private;z_SUV;no;0;9.0;Highly Urban/ Urban;24/05/2022;complet;dev_integral;326,44;39897-188
+F;72;Non;Non;[0, 20k€];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;05/01/2022;complet;dev_premium;474,58;84261-189
+F;13;Non;Non;[40k€+];Private;Minivan;no;0;11.0;Highly Urban/ Urban;17/05/2022;complet;dev_vip;554,77;68252-190
+M;50;Non;Non;[40k€+];Commercial;Van;yes;5;;Highly Urban/ Urban;30/05/2022;complet;dev_express;252,03;42695-191
+M;8;Non;Non;[20k€, 40k€];Private;Sports Car;no;3;1.0;Highly Urban/ Urban;25/01/2022;complet;dev_premium;490,84;12828-192
+F;69;Non;Non;[40k€+];Private;Sports Car;no;0;7.0;z_Highly Rural/ Rural;30/01/2022;complet;dev_integral;307,41;78202-193
+F;30;Non;Non;[40k€+];Commercial;Panel Truck;no;1;1.0;Highly Urban/ Urban;04/01/2022;complet;dev_premium;488,47;88095-194
+F;53;Non;Non;[40k€+];Private;z_SUV;no;0;15.0;Highly Urban/ Urban;11/02/2022;complet;dev_integral;328,18;17566-195
+F;68;Non;Oui;[40k€+];Private;Sports Car;no;3;7.0;Highly Urban/ Urban;07/04/2022;complet;dev_premium;351,77;84646-196
+F;56;Non;Oui;[40k€+];Private;Minivan;no;4;17.0;Highly Urban/ Urban;09/02/2022;complet;dev_express;260,23;19439-197
+M;86;Non;Non;[40k€+];Commercial;Panel Truck;no;2;13.0;Highly Urban/ Urban;27/04/2022;complet;dev_express;260,05;50387-198
+F;51;Non;Oui;[20k€, 40k€];Private;z_SUV;no;0;4.0;Highly Urban/ Urban;25/05/2022;complet;dev_integral;313,5;56044-199
+F;68;Non;Non;[20k€, 40k€];Commercial;Minivan;no;0;;z_Highly Rural/ Rural;10/02/2022;complet;dev_express;255,92;20533-200
+M;17;Non;Non;[40k€+];Private;Sports Car;yes;9;8.0;Highly Urban/ Urban;14/03/2022;complet;dev_express;250,09;22127-201
+M;74;Non;Non;[40k€+];Commercial;Pickup;yes;4;7.0;Highly Urban/ Urban;11/05/2022;complet;dev_integral;306,33;74964-202
+M;65;Oui;Oui;[40k€+];Commercial;Minivan;yes;0;1.0;Highly Urban/ Urban;09/04/2022;complet;dev_premium;414,58;92135-203
+F;79;Non;Non;[40k€+];Commercial;z_SUV;no;2;14.0;z_Highly Rural/ Rural;14/04/2022;complet;dev_premium;522,86;89236-204
+M;85;Non;Oui;[20k€, 40k€];Private;Sports Car;no;3;7.0;Highly Urban/ Urban;18/04/2022;complet;dev_express;263,73;95207-205
+M;53;Non;Non;[40k€+];Commercial;Minivan;yes;0;1.0;Highly Urban/ Urban;23/03/2022;complet;dev_express;275,11;72276-206
+M;84;Non;Non;[40k€+];Commercial;Minivan;yes;6;;Highly Urban/ Urban;09/05/2022;complet;dev_integral;306,06;83350-207
+M;61;Non;Non;[20k€, 40k€];Private;Minivan;no;0;12.0;z_Highly Rural/ Rural;04/02/2022;complet;dev_express;255,66;53756-208
+M;64;Oui;Oui;[20k€, 40k€];Commercial;Panel Truck;yes;1;8.0;Highly Urban/ Urban;19/04/2022;complet;dev_premium;533,34;60350-209
+F;54;Non;Oui;[20k€, 40k€];Private;z_SUV;no;0;5.0;z_Highly Rural/ Rural;03/04/2022;complet;dev_integral;337,24;45613-210
+F;21;Oui;Oui;[40k€+];Private;Minivan;no;1;8.0;z_Highly Rural/ Rural;18/01/2022;complet;dev_integral;294,76;81049-211
+F;51;Non;Non;[40k€+];Commercial;Panel Truck;yes;1;16.0;Highly Urban/ Urban;23/03/2022;complet;dev_express;268,94;94487-212
+F;65;Non;Non;[40k€+];Private;z_SUV;yes;1;;Highly Urban/ Urban;02/05/2022;complet;dev_integral;290,84;96306-213
+F;52;Non;Non;[40k€+];Commercial;Van;no;1;5.0;Highly Urban/ Urban;19/01/2022;complet;dev_express;259,92;96864-214
+M;59;Non;Oui;[40k€+];Commercial;Van;no;5;;Highly Urban/ Urban;15/02/2022;complet;dev_integral;294,79;20346-215
+M;66;Non;Non;[40k€+];Private;z_SUV;no;0;13.0;Highly Urban/ Urban;03/01/2022;complet;dev_premium;502,24;61084-216
+F;55;Non;Oui;[20k€, 40k€];Private;Pickup;yes;2;6.0;Highly Urban/ Urban;27/03/2022;complet;dev_express;250,53;20901-217
+F;8;Non;Non;[40k€+];Private;z_SUV;no;8;19.0;Highly Urban/ Urban;02/04/2022;complet;dev_premium;405,34;25769-218
+M;65;Non;Non;[20k€, 40k€];Private;Sports Car;no;0;1.0;Highly Urban/ Urban;30/04/2022;complet;dev_premium;510,58;13001-219
+M;72;Oui;Oui;[20k€, 40k€];Private;Minivan;no;1;1.0;z_Highly Rural/ Rural;07/04/2022;complet;dev_integral;338,12;18465-220
+M;75;Non;Oui;[40k€+];Private;Sports Car;no;0;16.0;Highly Urban/ Urban;22/01/2022;complet;dev_integral;317,4;74729-221
+M;70;Oui;Oui;Inconnus;Commercial;Pickup;no;0;18.0;z_Highly Rural/ Rural;07/05/2022;complet;dev_integral;322,32;57987-222
+F;32;Non;Non;[40k€+];Private;z_SUV;no;4;3.0;Highly Urban/ Urban;07/01/2022;complet;dev_premium;538,88;12745-223
+F;6;Non;Oui;[40k€+];Commercial;z_SUV;no;5;5.0;Highly Urban/ Urban;05/01/2022;complet;dev_integral;334,48;89422-224
+F;85;Non;Non;[20k€, 40k€];Commercial;Minivan;no;0;1.0;Highly Urban/ Urban;13/05/2022;complet;dev_integral;318,22;67698-225
+M;57;Non;Non;[40k€+];Private;Minivan;no;4;10.0;Highly Urban/ Urban;11/05/2022;complet;dev_express;253,64;95126-226
+F;67;Non;Non;[20k€, 40k€];Private;z_SUV;no;3;9.0;Highly Urban/ Urban;29/03/2022;complet;dev_integral;310,03;16055-227
+M;28;Non;Oui;[20k€, 40k€];Private;z_SUV;no;0;3.0;z_Highly Rural/ Rural;12/02/2022;complet;dev_premium;446,4;66647-228
+F;71;Non;Non;[0, 20k€];Private;Minivan;yes;0;1.0;Highly Urban/ Urban;18/03/2022;complet;dev_premium;323,71;42721-229
+F;84;Non;Non;[20k€, 40k€];Private;Pickup;yes;5;1.0;Highly Urban/ Urban;25/01/2022;complet;dev_express;273,49;38934-230
+F;28;Non;Non;[40k€+];Private;z_SUV;no;3;;Highly Urban/ Urban;11/05/2022;complet;dev_express;268,08;42521-231
+M;5;Oui;Oui;[40k€+];Private;Minivan;yes;0;7.0;Highly Urban/ Urban;04/05/2022;complet;dev_express;251,24;96890-232
+F;33;Non;Non;[40k€+];Private;Minivan;yes;3;;Highly Urban/ Urban;22/01/2022;complet;dev_express;277,25;24556-233
+F;45;Non;Non;[40k€+];Commercial;z_SUV;no;2;10.0;Highly Urban/ Urban;06/01/2022;complet;dev_express;256,99;69890-234
+F;69;Non;Oui;[0, 20k€];Private;z_SUV;no;2;7.0;z_Highly Rural/ Rural;11/04/2022;complet;dev_integral;310,35;55032-235
+M;70;Non;Non;[40k€+];Private;Pickup;no;0;16.0;Highly Urban/ Urban;22/03/2022;complet;dev_integral;288,06;75532-236
+F;39;Non;Non;[40k€+];Commercial;Panel Truck;no;0;15.0;Highly Urban/ Urban;31/03/2022;complet;dev_premium;513,79;30531-237
+F;68;Non;Non;[40k€+];Private;z_SUV;no;0;15.0;Highly Urban/ Urban;09/03/2022;complet;dev_integral;293,6;88416-238
+M;74;Non;Oui;[20k€, 40k€];Private;z_SUV;no;5;1.0;Highly Urban/ Urban;07/05/2022;complet;dev_integral;287,88;23440-239
+F;71;Non;Non;[40k€+];Private;Minivan;yes;3;10.0;Highly Urban/ Urban;24/02/2022;complet;dev_integral;315,82;62379-240
+F;44;Non;Non;[40k€+];Private;Minivan;no;0;15.0;Highly Urban/ Urban;24/05/2022;complet;dev_express;275,89;74383-241
+M;65;Non;Non;[40k€+];Commercial;z_SUV;no;0;7.0;Highly Urban/ Urban;25/02/2022;complet;dev_express;283,32;83406-242
+F;85;Non;Non;[0, 20k€];Commercial;Pickup;yes;0;11.0;Highly Urban/ Urban;29/03/2022;complet;dev_express;278,57;36068-243
+F;80;Oui;Oui;[40k€+];Private;Sports Car;no;6;12.0;Highly Urban/ Urban;10/05/2022;complet;dev_express;278,88;14515-244
+M;12;Non;Oui;[40k€+];Private;z_SUV;no;3;5.0;Highly Urban/ Urban;14/05/2022;complet;dev_integral;294,07;88475-245
+F;88;Non;Non;Inconnus;Private;Van;yes;3;12.0;Highly Urban/ Urban;19/01/2022;complet;dev_integral;287,36;13515-246
+M;35;Oui;Oui;[40k€+];Commercial;Pickup;no;0;7.0;Highly Urban/ Urban;27/05/2022;complet;dev_premium;444,12;70294-247
+M;10;Non;Oui;[0, 20k€];Commercial;Van;yes;0;1.0;z_Highly Rural/ Rural;13/01/2022;complet;dev_integral;327,96;38225-248
+M;38;Non;Non;[20k€, 40k€];Private;Pickup;yes;0;10.0;Highly Urban/ Urban;08/04/2022;complet;dev_integral;324,54;22836-249
+F;32;Non;Non;[40k€+];Private;Minivan;no;2;15.0;Highly Urban/ Urban;26/04/2022;complet;dev_integral;282;75517-250
+M;19;Non;Non;[40k€+];Private;z_SUV;no;1;20.0;Highly Urban/ Urban;30/01/2022;complet;dev_integral;304,82;47886-251
+F;38;Non;Non;[40k€+];Commercial;z_SUV;no;5;12.0;z_Highly Rural/ Rural;18/05/2022;complet;dev_express;265,76;62497-252
+M;56;Non;Non;[40k€+];Commercial;Minivan;no;3;6.0;Highly Urban/ Urban;27/01/2022;complet;dev_premium;408,4;22906-253
+F;59;Non;Non;[40k€+];Private;Van;yes;0;18.0;Highly Urban/ Urban;13/02/2022;complet;dev_express;270,45;41059-254
+M;9;Non;Non;[20k€, 40k€];Private;Minivan;no;0;8.0;Highly Urban/ Urban;26/04/2022;complet;dev_integral;324,01;48607-255
+M;62;Non;Oui;[40k€+];Commercial;Van;yes;2;;z_Highly Rural/ Rural;26/05/2022;complet;dev_premium;496,66;99693-256
+M;60;Non;Oui;Inconnus;Private;Minivan;no;0;16.0;Highly Urban/ Urban;06/02/2022;complet;dev_integral;311,46;17848-257
+F;23;Oui;Oui;[20k€, 40k€];Private;Minivan;no;0;5.0;Highly Urban/ Urban;05/02/2022;complet;dev_express;264,18;38740-258
+F;88;Non;Non;[0, 20k€];Private;Minivan;yes;0;1.0;z_Highly Rural/ Rural;26/03/2022;complet;dev_premium;450,47;48428-259
+F;71;Non;Non;[40k€+];Commercial;Panel Truck;no;4;10.0;Highly Urban/ Urban;14/02/2022;complet;dev_express;251,35;37675-260
+F;11;Non;Non;[40k€+];Commercial;Panel Truck;no;5;8.0;Highly Urban/ Urban;17/04/2022;complet;dev_integral;339,54;74609-261
+F;81;Non;Oui;[40k€+];Commercial;Van;yes;1;9.0;Highly Urban/ Urban;12/02/2022;complet;dev_express;253,15;47936-262
+M;10;Non;Non;[40k€+];Commercial;Pickup;no;0;17.0;Highly Urban/ Urban;20/03/2022;complet;dev_integral;294,96;98742-263
+M;15;Non;Non;[40k€+];Commercial;Van;no;7;10.0;Highly Urban/ Urban;24/03/2022;complet;dev_express;253,78;82774-264
+M;78;Non;Non;[0, 20k€];Private;z_SUV;no;4;;Highly Urban/ Urban;28/05/2022;complet;dev_integral;310,92;12310-265
+M;58;Non;Non;[40k€+];Private;z_SUV;no;1;7.0;Highly Urban/ Urban;27/04/2022;complet;dev_integral;327,49;50989-266
+M;52;Non;Non;[40k€+];Private;z_SUV;no;1;1.0;z_Highly Rural/ Rural;28/01/2022;complet;dev_premium;320,33;52570-267
+M;16;Non;Non;[40k€+];Commercial;Panel Truck;no;4;11.0;Highly Urban/ Urban;21/03/2022;complet;dev_express;281,3;42750-268
+F;72;Non;Non;[40k€+];Private;z_SUV;no;0;12.0;Highly Urban/ Urban;07/01/2022;complet;dev_integral;334,13;38221-269
+F;60;Non;Non;[40k€+];Private;Minivan;no;4;13.0;Highly Urban/ Urban;15/05/2022;complet;dev_premium;346,74;67563-270
+F;37;Non;Non;[40k€+];Commercial;Sports Car;no;4;12.0;Highly Urban/ Urban;09/02/2022;complet;dev_integral;309,27;73484-271
+M;70;Non;Non;[40k€+];Commercial;Pickup;no;3;13.0;Highly Urban/ Urban;04/02/2022;complet;dev_express;283;12412-272
+F;44;Non;Non;[40k€+];Commercial;Van;no;3;8.0;Highly Urban/ Urban;30/04/2022;complet;dev_integral;317,98;60474-273
+M;24;Non;Non;[40k€+];Private;Van;no;0;1.0;Highly Urban/ Urban;06/01/2022;complet;dev_express;264,99;26015-274
+M;51;Non;Oui;[40k€+];Private;z_SUV;no;2;1.0;Highly Urban/ Urban;12/04/2022;complet;dev_express;259,91;76139-275
+F;87;Non;Non;[40k€+];Commercial;Panel Truck;no;5;10.0;Highly Urban/ Urban;25/04/2022;complet;dev_express;250,93;29118-276
+M;37;Oui;Oui;[40k€+];Commercial;Pickup;no;4;8.0;Highly Urban/ Urban;01/01/2022;complet;dev_integral;336,46;73013-277
+M;60;Non;Non;[20k€, 40k€];Commercial;Pickup;yes;5;1.0;Highly Urban/ Urban;16/03/2022;complet;dev_express;284,06;94016-278
+M;25;Non;Non;[40k€+];Commercial;Panel Truck;no;3;20.0;Highly Urban/ Urban;20/03/2022;complet;dev_integral;325,01;32622-279
+M;74;Non;Non;[0, 20k€];Private;z_SUV;no;3;2.0;Highly Urban/ Urban;20/01/2022;complet;dev_integral;290,62;28440-280
+M;59;Non;Non;[40k€+];Private;Minivan;yes;0;12.0;Highly Urban/ Urban;10/05/2022;complet;dev_integral;304,34;27854-281
+M;7;Non;Non;[0, 20k€];Private;Sports Car;no;5;11.0;Highly Urban/ Urban;10/01/2022;complet;dev_premium;522,67;68871-282
+F;7;Non;Non;[40k€+];Private;Sports Car;no;0;12.0;z_Highly Rural/ Rural;28/03/2022;complet;dev_integral;313,78;12047-283
+F;47;Non;Non;[20k€, 40k€];Private;Minivan;yes;4;11.0;Highly Urban/ Urban;13/04/2022;complet;dev_integral;308,04;37874-284
+F;87;Non;Non;[40k€+];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;21/02/2022;complet;dev_integral;326,77;64332-285
+F;19;Non;Non;[20k€, 40k€];Private;Pickup;yes;2;1.0;Highly Urban/ Urban;15/01/2022;complet;dev_integral;316,44;34880-286
+F;42;Non;Non;[20k€, 40k€];Commercial;Pickup;yes;0;10.0;z_Highly Rural/ Rural;25/01/2022;complet;dev_integral;337,36;19570-287
+M;73;Non;Non;Inconnus;Private;Minivan;no;2;7.0;Highly Urban/ Urban;18/01/2022;complet;dev_integral;332,68;88026-288
+F;78;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;17.0;Highly Urban/ Urban;15/02/2022;complet;dev_express;271,49;38502-289
+M;61;Non;Oui;[40k€+];Private;Pickup;no;1;14.0;Highly Urban/ Urban;27/01/2022;complet;dev_premium;525,25;92389-290
+M;59;Non;Non;[40k€+];Private;Pickup;no;4;9.0;Highly Urban/ Urban;18/03/2022;complet;dev_express;280,37;41968-291
+M;19;Non;Non;[40k€+];Private;Pickup;no;0;8.0;Highly Urban/ Urban;22/03/2022;complet;dev_integral;311,45;17072-292
+M;5;Non;Non;[20k€, 40k€];Private;Minivan;no;3;;Highly Urban/ Urban;07/03/2022;complet;dev_integral;322,57;91577-293
+M;8;Non;Non;[40k€+];Commercial;Van;yes;0;4.0;Highly Urban/ Urban;18/05/2022;complet;dev_integral;323,43;55818-294
+F;24;Non;Oui;[20k€, 40k€];Private;z_SUV;no;1;1.0;Highly Urban/ Urban;01/05/2022;complet;dev_express;283,1;59952-295
+F;48;Non;Oui;[40k€+];Private;z_SUV;no;0;11.0;Highly Urban/ Urban;26/05/2022;complet;dev_integral;306,68;55947-296
+F;15;Non;Non;[40k€+];Private;z_SUV;no;6;;Highly Urban/ Urban;23/04/2022;complet;dev_premium;502,35;51658-297
+F;91;Oui;Oui;[40k€+];Private;Minivan;yes;1;11.0;Highly Urban/ Urban;27/02/2022;complet;dev_express;252,97;66492-298
+F;70;Non;Non;[40k€+];Private;Pickup;yes;2;10.0;Highly Urban/ Urban;16/04/2022;complet;dev_integral;281,49;15376-299
+F;21;Non;Oui;[40k€+];Commercial;Panel Truck;no;1;21.0;Highly Urban/ Urban;21/03/2022;complet;dev_express;280,78;63544-300
+M;46;Non;Non;[20k€, 40k€];Commercial;Sports Car;no;0;1.0;z_Highly Rural/ Rural;10/05/2022;complet;dev_integral;289,57;84332-301
+F;5;Non;Oui;[40k€+];Private;Pickup;no;0;10.0;z_Highly Rural/ Rural;11/04/2022;complet;dev_integral;292,53;95954-302
+F;52;Non;Oui;[0, 20k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;13/05/2022;complet;dev_express;274,81;70700-303
+F;71;Oui;Oui;[0, 20k€];Private;Minivan;yes;3;1.0;Highly Urban/ Urban;26/05/2022;complet;dev_integral;319,11;55031-304
+F;82;Non;Non;[40k€+];Private;Pickup;no;0;10.0;z_Highly Rural/ Rural;03/03/2022;complet;dev_express;257,24;59285-305
+F;71;Non;Non;[40k€+];Private;Sports Car;no;0;12.0;Highly Urban/ Urban;26/01/2022;complet;dev_express;261,81;24263-306
+M;12;Non;Non;[40k€+];Commercial;Pickup;yes;4;20.0;Highly Urban/ Urban;22/01/2022;complet;dev_express;279,4;46924-307
+F;74;Non;Non;[0, 20k€];Private;z_SUV;no;0;3.0;Highly Urban/ Urban;25/05/2022;complet;dev_express;269,65;99671-308
+F;20;Non;Non;[40k€+];Private;Minivan;no;0;11.0;Highly Urban/ Urban;03/02/2022;complet;dev_premium;434,84;26203-309
+F;54;Non;Non;[40k€+];Commercial;Panel Truck;yes;5;19.0;Highly Urban/ Urban;08/01/2022;complet;dev_express;261,49;69965-310
+F;49;Non;Non;[0, 20k€];Commercial;Minivan;no;0;11.0;z_Highly Rural/ Rural;02/05/2022;complet;dev_express;279,94;50969-311
+M;37;Non;Non;[40k€+];Commercial;Sports Car;yes;0;7.0;Highly Urban/ Urban;18/05/2022;complet;dev_express;265,59;50448-312
+M;40;Non;Non;[20k€, 40k€];Private;Minivan;no;0;8.0;z_Highly Rural/ Rural;25/05/2022;complet;dev_premium;494,57;76084-313
+M;68;Oui;Oui;[40k€+];Private;Sports Car;no;2;1.0;Highly Urban/ Urban;04/05/2022;complet;dev_integral;316,98;53500-314
+F;63;Non;Oui;[40k€+];Private;Pickup;no;2;12.0;Highly Urban/ Urban;16/04/2022;complet;dev_integral;319,58;57023-315
+M;22;Non;Non;[0, 20k€];Private;Minivan;no;0;1.0;Highly Urban/ Urban;17/02/2022;complet;dev_integral;332,58;15381-316
+M;84;Non;Non;[40k€+];Private;Minivan;yes;0;11.0;Highly Urban/ Urban;25/04/2022;complet;dev_premium;394,46;98011-317
+F;13;Non;Non;[20k€, 40k€];Commercial;Panel Truck;no;0;7.0;Highly Urban/ Urban;24/03/2022;complet;dev_integral;299,2;25882-318
+F;51;Non;Oui;[0, 20k€];Private;z_SUV;no;0;5.0;z_Highly Rural/ Rural;24/01/2022;complet;dev_express;279,57;11222-319
+M;86;Oui;Oui;Inconnus;Private;Pickup;yes;0;9.0;z_Highly Rural/ Rural;03/03/2022;complet;dev_integral;321,89;74331-320
+F;63;Non;Non;[40k€+];Private;Van;yes;0;14.0;Highly Urban/ Urban;29/01/2022;complet;dev_integral;303,5;61807-321
+F;94;Oui;Oui;[0, 20k€];Private;z_SUV;no;0;4.0;z_Highly Rural/ Rural;29/04/2022;complet;dev_integral;337,33;23109-322
+F;75;Non;Non;[40k€+];Private;Sports Car;no;0;6.0;Highly Urban/ Urban;11/01/2022;complet;dev_integral;309,68;14156-323
+F;46;Non;Oui;[0, 20k€];Commercial;Pickup;no;7;1.0;z_Highly Rural/ Rural;11/05/2022;complet;dev_express;279,56;96999-324
+F;57;Non;Oui;[20k€, 40k€];Private;z_SUV;no;6;1.0;Highly Urban/ Urban;07/05/2022;complet;dev_express;266,9;14583-325
+M;7;Non;Non;[40k€+];Commercial;Minivan;no;3;1.0;Highly Urban/ Urban;08/02/2022;complet;dev_express;258,75;68038-326
+F;74;Non;Non;[40k€+];Private;Minivan;yes;2;19.0;Highly Urban/ Urban;01/02/2022;complet;dev_integral;336,13;54468-327
+F;63;Non;Non;[20k€, 40k€];Commercial;z_SUV;no;3;12.0;Highly Urban/ Urban;10/03/2022;complet;dev_integral;302,68;58076-328
+F;55;Non;Non;[40k€+];Private;Minivan;no;1;1.0;Highly Urban/ Urban;08/03/2022;complet;dev_integral;317,96;11406-329
+F;62;Non;Non;[20k€, 40k€];Private;z_SUV;no;1;9.0;z_Highly Rural/ Rural;27/05/2022;complet;dev_premium;445,13;60032-330
+F;52;Non;Non;[40k€+];Private;Pickup;yes;2;9.0;Highly Urban/ Urban;07/01/2022;complet;dev_vip;626,17;14005-331
+M;83;Oui;Oui;[20k€, 40k€];Private;Minivan;yes;0;1.0;Highly Urban/ Urban;14/02/2022;complet;dev_express;263,27;24939-332
+M;37;Non;Non;[20k€, 40k€];Private;Sports Car;no;0;4.0;Highly Urban/ Urban;21/02/2022;complet;dev_express;256,04;69965-333
+M;54;Non;Oui;[20k€, 40k€];Commercial;Van;yes;0;7.0;z_Highly Rural/ Rural;09/04/2022;complet;dev_integral;284,7;72923-334
+F;67;Non;Oui;[40k€+];Commercial;Minivan;no;5;9.0;Highly Urban/ Urban;25/03/2022;complet;dev_integral;303,62;86569-335
+F;49;Non;Oui;[40k€+];Private;z_SUV;no;0;20.0;Highly Urban/ Urban;31/03/2022;complet;dev_express;273,9;82775-336
+M;19;Non;Non;[40k€+];Private;Sports Car;no;0;15.0;Highly Urban/ Urban;02/02/2022;complet;dev_integral;294,79;71012-337
+M;52;Non;Non;[40k€+];Commercial;Pickup;yes;0;7.0;Highly Urban/ Urban;08/05/2022;complet;dev_integral;307,93;74424-338
+M;41;Non;Oui;[40k€+];Commercial;z_SUV;no;0;9.0;Highly Urban/ Urban;04/04/2022;complet;dev_integral;282,43;84192-339
+F;32;Oui;Oui;[0, 20k€];Private;Sports Car;no;3;6.0;Highly Urban/ Urban;11/01/2022;complet;dev_express;256,59;95029-340
+M;63;Non;Oui;[40k€+];Commercial;Panel Truck;no;4;8.0;Highly Urban/ Urban;22/03/2022;complet;dev_express;281,4;34478-341
+M;83;Non;Oui;[40k€+];Commercial;Sports Car;no;0;1.0;Highly Urban/ Urban;30/01/2022;complet;dev_integral;334,88;33066-342
+M;37;Non;Non;[40k€+];Private;z_SUV;no;7;1.0;Highly Urban/ Urban;09/05/2022;complet;dev_integral;311,75;89239-343
+M;76;Non;Non;[20k€, 40k€];Commercial;Minivan;no;3;5.0;Highly Urban/ Urban;11/04/2022;complet;dev_integral;288,41;25668-344
+M;57;Non;Non;[40k€+];Commercial;Van;yes;1;8.0;Highly Urban/ Urban;10/01/2022;complet;dev_integral;324,97;50103-345
+M;57;Non;Non;[40k€+];Private;z_SUV;no;2;;Highly Urban/ Urban;26/03/2022;complet;dev_premium;455,97;60195-346
+F;25;Non;Non;[40k€+];Commercial;Panel Truck;no;10;14.0;Highly Urban/ Urban;24/02/2022;complet;dev_express;259,49;25588-347
+F;22;Non;Oui;[40k€+];Commercial;Panel Truck;no;3;3.0;Highly Urban/ Urban;05/03/2022;complet;dev_integral;292,06;37299-348
+F;83;Non;Non;[0, 20k€];Private;Minivan;no;0;10.0;Highly Urban/ Urban;30/04/2022;complet;dev_express;281,72;76952-349
+M;37;Non;Non;[0, 20k€];Private;Sports Car;no;0;1.0;z_Highly Rural/ Rural;26/01/2022;complet;dev_integral;308,23;42162-350
+F;89;Oui;Oui;[40k€+];Private;Minivan;no;4;10.0;Highly Urban/ Urban;06/01/2022;complet;dev_vip;694,47;77802-351
+M;31;Non;Non;[40k€+];Private;Minivan;yes;0;13.0;Highly Urban/ Urban;09/01/2022;complet;dev_integral;327,58;39404-352
+M;69;Non;Oui;[40k€+];Commercial;z_SUV;no;1;1.0;Highly Urban/ Urban;13/01/2022;complet;dev_integral;333,97;92368-353
+F;84;Non;Non;[40k€+];Private;Sports Car;no;8;20.0;Highly Urban/ Urban;10/05/2022;complet;dev_integral;307,83;61711-354
+M;82;Non;Oui;[40k€+];Commercial;Panel Truck;no;0;1.0;z_Highly Rural/ Rural;02/03/2022;complet;dev_integral;339,69;34376-355
+F;51;Non;Oui;[40k€+];Private;Minivan;no;2;18.0;Highly Urban/ Urban;30/01/2022;complet;dev_express;253,83;14506-356
+F;55;Non;Non;Inconnus;Private;z_SUV;no;0;25.0;Highly Urban/ Urban;14/04/2022;complet;dev_integral;291,05;89079-357
+M;32;Non;Oui;[40k€+];Commercial;Panel Truck;yes;0;19.0;Highly Urban/ Urban;29/05/2022;complet;dev_integral;307,72;54939-358
+M;7;Non;Oui;[20k€, 40k€];Private;Pickup;yes;0;17.0;Highly Urban/ Urban;24/05/2022;complet;dev_express;268,44;20226-359
+F;54;Non;Non;[40k€+];Commercial;Pickup;yes;2;11.0;z_Highly Rural/ Rural;27/01/2022;complet;dev_integral;301,81;98669-360
+F;59;Non;Non;[40k€+];Private;Van;no;3;13.0;Highly Urban/ Urban;07/05/2022;complet;dev_express;256,13;58650-361
+M;74;Non;Oui;[20k€, 40k€];Commercial;z_SUV;no;0;8.0;z_Highly Rural/ Rural;06/03/2022;complet;dev_premium;431,79;29285-362
+M;21;Non;Oui;[40k€+];Commercial;z_SUV;no;1;5.0;Highly Urban/ Urban;06/05/2022;complet;dev_express;268,02;51565-363
+F;56;Non;Oui;[40k€+];Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;23/01/2022;complet;dev_premium;545,82;66826-364
+M;27;Non;Oui;[0, 20k€];Commercial;z_SUV;no;3;1.0;Highly Urban/ Urban;21/01/2022;complet;dev_integral;290,47;79591-365
+M;65;Non;Oui;Inconnus;Private;Minivan;yes;1;;Highly Urban/ Urban;24/05/2022;complet;dev_integral;315,21;29377-366
+F;42;Non;Oui;[20k€, 40k€];Private;Minivan;yes;4;8.0;z_Highly Rural/ Rural;23/04/2022;complet;dev_integral;282,79;96512-367
+F;64;Non;Non;[40k€+];Private;z_SUV;no;0;9.0;Highly Urban/ Urban;19/02/2022;complet;dev_express;270;62728-368
+F;71;Non;Non;[20k€, 40k€];Private;Minivan;no;0;7.0;z_Highly Rural/ Rural;10/01/2022;complet;dev_express;280,92;40911-369
+M;11;Non;Oui;[40k€+];Private;Sports Car;no;0;13.0;Highly Urban/ Urban;26/02/2022;complet;dev_premium;400,38;54467-370
+F;36;Oui;Oui;[0, 20k€];Private;z_SUV;no;0;10.0;Highly Urban/ Urban;03/01/2022;complet;dev_express;268,53;53681-371
+M;62;Non;Non;Inconnus;Private;Minivan;yes;0;;Highly Urban/ Urban;27/01/2022;complet;dev_integral;303,81;44783-372
+M;87;Non;Non;[40k€+];Commercial;Panel Truck;no;2;8.0;z_Highly Rural/ Rural;26/05/2022;complet;dev_integral;323,88;20691-373
+F;52;Non;Oui;[0, 20k€];Private;Minivan;no;3;1.0;Highly Urban/ Urban;07/03/2022;complet;dev_integral;335,54;40639-374
+F;53;Non;Non;[20k€, 40k€];Private;z_SUV;no;3;;Highly Urban/ Urban;16/04/2022;complet;dev_express;277,37;68369-375
+M;47;Non;Oui;[20k€, 40k€];Private;z_SUV;no;3;6.0;Highly Urban/ Urban;23/05/2022;complet;dev_express;261,07;76307-376
+F;70;Non;Oui;[20k€, 40k€];Private;z_SUV;no;0;11.0;Highly Urban/ Urban;08/01/2022;complet;dev_premium;452,78;33384-377
+M;23;Non;Oui;[40k€+];Private;Minivan;no;0;21.0;Highly Urban/ Urban;29/05/2022;complet;dev_integral;333,27;99337-378
+M;73;Oui;Oui;[40k€+];Private;Minivan;yes;1;8.0;Highly Urban/ Urban;10/01/2022;complet;dev_integral;310,58;31221-379
+F;58;Non;Non;[40k€+];Private;Minivan;no;0;;Highly Urban/ Urban;18/04/2022;complet;dev_integral;311,12;41137-380
+M;14;Non;Oui;[40k€+];Private;Minivan;no;1;18.0;Highly Urban/ Urban;16/01/2022;complet;dev_express;262,33;50254-381
+M;80;Non;Non;[40k€+];Commercial;Van;yes;2;7.0;Highly Urban/ Urban;02/01/2022;complet;dev_express;264,89;69946-382
+M;70;Non;Non;[40k€+];Commercial;Van;no;3;16.0;Highly Urban/ Urban;18/03/2022;complet;dev_integral;331,57;50708-383
+M;76;Non;Non;[40k€+];Private;Sports Car;no;0;14.0;Highly Urban/ Urban;19/01/2022;complet;dev_premium;471,73;45901-384
+M;13;Non;Oui;[40k€+];Commercial;z_SUV;no;0;11.0;Highly Urban/ Urban;06/05/2022;complet;dev_integral;294,57;99490-385
+F;68;Non;Oui;[20k€, 40k€];Commercial;z_SUV;no;3;4.0;Highly Urban/ Urban;27/04/2022;complet;dev_express;253,56;54067-386
+M;15;Non;Non;[40k€+];Private;Minivan;no;4;19.0;Highly Urban/ Urban;16/02/2022;complet;dev_express;276,9;35004-387
+F;92;Non;Non;Inconnus;Private;Pickup;no;0;14.0;Highly Urban/ Urban;06/03/2022;complet;dev_integral;293,95;51694-388
+M;42;Non;Non;[20k€, 40k€];Private;z_SUV;no;0;5.0;z_Highly Rural/ Rural;07/01/2022;complet;dev_express;274,3;58214-389
+M;75;Non;Oui;[40k€+];Private;Minivan;yes;0;16.0;Highly Urban/ Urban;23/02/2022;complet;dev_express;273,49;98963-390
+F;44;Oui;Oui;[40k€+];Private;z_SUV;no;0;12.0;Highly Urban/ Urban;11/04/2022;complet;dev_integral;291,08;18412-391
+F;40;Non;Non;Inconnus;Private;Sports Car;no;1;15.0;Highly Urban/ Urban;16/03/2022;complet;dev_integral;304,57;82896-392
+F;46;Non;Non;[0, 20k€];Commercial;Minivan;no;2;11.0;Highly Urban/ Urban;13/05/2022;complet;dev_express;281,08;85759-393
+M;50;Non;Non;[40k€+];Commercial;Panel Truck;yes;1;7.0;Highly Urban/ Urban;08/01/2022;complet;dev_express;278,25;38592-394
+F;74;Non;Non;[40k€+];Private;Van;yes;0;3.0;Highly Urban/ Urban;13/03/2022;complet;dev_express;269,56;45889-395
+M;80;Non;Non;[20k€, 40k€];Commercial;Pickup;yes;3;8.0;Highly Urban/ Urban;05/01/2022;complet;dev_express;266,91;89617-396
+F;40;Oui;Oui;[40k€+];Commercial;Pickup;no;1;8.0;Highly Urban/ Urban;17/02/2022;complet;dev_premium;436,75;51075-397
+M;94;Non;Non;[0, 20k€];Private;z_SUV;no;0;16.0;z_Highly Rural/ Rural;14/04/2022;complet;dev_premium;346,53;30351-398
+M;80;Non;Non;[0, 20k€];Private;z_SUV;no;2;10.0;Highly Urban/ Urban;10/02/2022;complet;dev_express;259,31;87658-399
+M;74;Oui;Oui;[40k€+];Commercial;Minivan;no;0;9.0;z_Highly Rural/ Rural;17/04/2022;complet;dev_integral;296,6;58486-400
+F;16;Non;Non;Inconnus;Commercial;Sports Car;no;7;1.0;Highly Urban/ Urban;15/02/2022;complet;dev_integral;333,2;25180-401
+M;6;Non;Non;[40k€+];Commercial;Panel Truck;no;0;5.0;Highly Urban/ Urban;07/04/2022;complet;dev_integral;309,22;45622-402
+M;91;Non;Oui;[0, 20k€];Private;z_SUV;no;8;5.0;Highly Urban/ Urban;11/01/2022;complet;dev_express;266,33;50717-403
+M;67;Non;Non;[40k€+];Commercial;Panel Truck;no;0;16.0;Highly Urban/ Urban;29/01/2022;complet;dev_express;283,22;86129-404
+M;61;Non;Non;[40k€+];Commercial;Panel Truck;yes;5;19.0;Highly Urban/ Urban;27/01/2022;complet;dev_express;267,29;91101-405
+F;6;Non;Oui;[40k€+];Private;Minivan;no;0;7.0;Highly Urban/ Urban;09/04/2022;complet;dev_integral;286,38;90529-406
+F;23;Non;Oui;[40k€+];Commercial;z_SUV;no;0;8.0;Highly Urban/ Urban;04/02/2022;complet;dev_integral;290,17;63509-407
+M;12;Non;Oui;[40k€+];Private;Minivan;no;2;9.0;Highly Urban/ Urban;13/04/2022;complet;dev_premium;351,77;98031-408
+M;42;Non;Non;Inconnus;Commercial;Van;yes;1;14.0;Highly Urban/ Urban;01/03/2022;complet;dev_premium;386,43;13216-409
+F;65;Non;Non;[0, 20k€];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;13/02/2022;complet;dev_premium;345,84;90662-410
+M;66;Non;Oui;[20k€, 40k€];Commercial;Van;yes;2;1.0;Highly Urban/ Urban;27/03/2022;complet;dev_integral;323,63;38489-411
+M;52;Non;Non;[40k€+];Private;Sports Car;no;0;14.0;Highly Urban/ Urban;26/03/2022;complet;dev_express;254,9;36127-412
+F;83;Non;Non;[40k€+];Private;Pickup;no;0;;Highly Urban/ Urban;05/04/2022;complet;dev_premium;400,38;48737-413
+F;11;Non;Non;[0, 20k€];Private;z_SUV;no;2;16.0;z_Highly Rural/ Rural;23/01/2022;complet;dev_premium;486,84;89119-414
+M;79;Non;Non;[40k€+];Commercial;Pickup;no;0;16.0;Highly Urban/ Urban;14/02/2022;complet;dev_integral;297,43;33394-415
+F;58;Non;Non;[20k€, 40k€];Private;Pickup;no;0;;Highly Urban/ Urban;31/03/2022;complet;dev_express;278,49;86534-416
+M;53;Non;Non;[0, 20k€];Private;Pickup;no;1;1.0;Highly Urban/ Urban;11/05/2022;complet;dev_integral;336,95;62711-417
+F;40;Non;Oui;[0, 20k€];Private;z_SUV;no;7;1.0;Highly Urban/ Urban;24/03/2022;complet;dev_integral;332,19;28346-418
+M;75;Non;Non;[0, 20k€];Private;Pickup;no;6;1.0;Highly Urban/ Urban;29/03/2022;complet;dev_express;262,21;88947-419
+F;38;Non;Oui;Inconnus;Commercial;Panel Truck;yes;0;1.0;Highly Urban/ Urban;02/01/2022;complet;dev_integral;312,99;67248-420
+M;71;Oui;Oui;[20k€, 40k€];Commercial;Pickup;yes;5;1.0;Highly Urban/ Urban;29/05/2022;complet;dev_integral;327,81;62120-421
+M;18;Non;Non;[40k€+];Private;Van;no;11;16.0;Highly Urban/ Urban;18/04/2022;complet;dev_integral;328,43;89423-422
+M;68;Non;Non;[0, 20k€];Private;Minivan;no;2;1.0;z_Highly Rural/ Rural;17/04/2022;complet;dev_integral;308,61;37673-423
+M;85;Non;Non;[40k€+];Commercial;Minivan;yes;6;7.0;Highly Urban/ Urban;08/03/2022;complet;dev_integral;327,04;49217-424
+F;91;Non;Non;[40k€+];Private;Sports Car;no;0;12.0;Highly Urban/ Urban;28/04/2022;complet;dev_express;279,62;66225-425
+M;49;Non;Non;[40k€+];Commercial;z_SUV;no;1;7.0;z_Highly Rural/ Rural;05/04/2022;complet;dev_premium;468,07;20956-426
+M;44;Oui;Oui;[20k€, 40k€];Commercial;Minivan;no;0;5.0;Highly Urban/ Urban;30/03/2022;complet;dev_premium;517,59;91903-427
+F;61;Non;Non;[40k€+];Private;Minivan;no;2;1.0;Highly Urban/ Urban;09/04/2022;complet;dev_integral;305,85;62516-428
+F;65;Non;Non;[40k€+];Commercial;Panel Truck;no;6;18.0;Highly Urban/ Urban;06/05/2022;complet;dev_express;276,68;91902-429
+F;73;Oui;Oui;[40k€+];Private;z_SUV;no;4;11.0;z_Highly Rural/ Rural;29/04/2022;complet;dev_integral;332,02;14564-430
+F;50;Non;Non;[20k€, 40k€];Commercial;z_SUV;no;3;1.0;Highly Urban/ Urban;03/01/2022;complet;dev_express;263,56;39620-431
+M;22;Non;Non;[40k€+];Commercial;Panel Truck;yes;1;4.0;z_Highly Rural/ Rural;09/05/2022;complet;dev_vip;990,87;46821-432
+F;94;Non;Non;Inconnus;Commercial;Pickup;yes;0;17.0;Highly Urban/ Urban;22/01/2022;complet;dev_integral;283,1;44773-433
+F;11;Non;Non;[20k€, 40k€];Private;Minivan;no;0;15.0;Highly Urban/ Urban;29/04/2022;complet;dev_express;251,78;13268-434
+F;75;Non;Non;[40k€+];Commercial;Panel Truck;yes;5;;Highly Urban/ Urban;24/02/2022;complet;dev_integral;317,55;52613-435
+F;60;Non;Non;[0, 20k€];Commercial;Pickup;yes;0;1.0;Highly Urban/ Urban;01/04/2022;complet;dev_express;260,14;99399-436
+F;85;Non;Non;[40k€+];Commercial;Pickup;no;3;13.0;Highly Urban/ Urban;12/02/2022;complet;dev_express;257,05;90690-437
+F;61;Non;Oui;[40k€+];Private;Van;yes;0;12.0;Highly Urban/ Urban;19/04/2022;complet;dev_integral;314,58;80171-438
+M;81;Non;Oui;[0, 20k€];Commercial;z_SUV;no;2;6.0;Highly Urban/ Urban;06/02/2022;complet;dev_premium;403,76;12891-439
+F;62;Non;Oui;[0, 20k€];Private;Sports Car;no;0;9.0;Highly Urban/ Urban;07/01/2022;complet;dev_integral;286,7;10928-440
+F;31;Non;Non;[0, 20k€];Commercial;Pickup;yes;0;1.0;Highly Urban/ Urban;19/03/2022;complet;dev_premium;372,86;63166-441
+F;74;Non;Non;Inconnus;Private;Pickup;no;0;;Highly Urban/ Urban;10/03/2022;complet;dev_integral;312,17;89887-442
+F;52;Non;Non;[20k€, 40k€];Commercial;Pickup;yes;0;19.0;Highly Urban/ Urban;08/05/2022;complet;dev_integral;330,35;69584-443
+F;89;Non;Oui;[40k€+];Commercial;z_SUV;no;0;7.0;Highly Urban/ Urban;09/03/2022;complet;dev_express;277,86;88495-444
+M;75;Non;Non;[0, 20k€];Private;z_SUV;no;2;15.0;Highly Urban/ Urban;20/04/2022;complet;dev_express;262,75;24286-445
+F;82;Non;Non;[40k€+];Commercial;Pickup;yes;3;1.0;Highly Urban/ Urban;05/04/2022;complet;dev_integral;309,76;50191-446
+M;50;Non;Oui;[40k€+];Private;z_SUV;no;4;9.0;Highly Urban/ Urban;20/05/2022;complet;dev_integral;286,59;29307-447
+M;66;Non;Oui;[0, 20k€];Private;z_SUV;no;1;6.0;Highly Urban/ Urban;03/03/2022;complet;dev_integral;281,18;66015-448
+F;71;Oui;Oui;[0, 20k€];Private;z_SUV;no;2;1.0;Highly Urban/ Urban;12/03/2022;complet;dev_express;279,9;57285-449
+F;85;Non;Oui;[40k€+];Private;Sports Car;no;0;12.0;Highly Urban/ Urban;06/01/2022;complet;dev_express;250,4;23665-450
+M;30;Non;Non;Inconnus;Commercial;Pickup;yes;7;4.0;Highly Urban/ Urban;17/01/2022;complet;dev_express;273,39;90750-451
+F;93;Non;Oui;[0, 20k€];Private;z_SUV;no;1;8.0;Highly Urban/ Urban;04/03/2022;complet;dev_integral;313,04;35196-452
+F;54;Non;Non;[40k€+];Private;z_SUV;no;0;20.0;Highly Urban/ Urban;28/02/2022;complet;dev_premium;494,82;29328-453
+M;40;Non;Non;[40k€+];Commercial;Van;no;0;4.0;Highly Urban/ Urban;22/03/2022;complet;dev_express;251,72;91566-454
+F;26;Non;Oui;[40k€+];Commercial;Minivan;no;0;10.0;Highly Urban/ Urban;09/05/2022;complet;dev_express;264,01;88324-455
+F;38;Non;Non;[40k€+];Commercial;Pickup;no;0;;Highly Urban/ Urban;11/03/2022;complet;dev_integral;286,08;23891-456
+F;54;Non;Non;[40k€+];Commercial;Van;yes;5;1.0;Highly Urban/ Urban;19/02/2022;complet;dev_integral;315,16;20417-457
+F;38;Non;Oui;[0, 20k€];Private;Sports Car;no;2;8.0;Highly Urban/ Urban;28/04/2022;complet;dev_premium;462,31;24880-458
+M;29;Non;Non;[40k€+];Private;Pickup;yes;0;1.0;Highly Urban/ Urban;01/03/2022;complet;dev_integral;291,06;43522-459
+M;38;Oui;Oui;[40k€+];Private;Minivan;yes;1;1.0;Highly Urban/ Urban;17/01/2022;complet;dev_integral;289,12;87775-460
+M;60;Non;Non;[0, 20k€];Private;z_SUV;no;0;9.0;z_Highly Rural/ Rural;12/03/2022;complet;dev_premium;397,59;26362-461
+M;49;Non;Non;[40k€+];Private;Sports Car;no;1;5.0;Highly Urban/ Urban;14/04/2022;complet;dev_express;265,08;91528-462
+M;35;Non;Non;[40k€+];Commercial;Panel Truck;no;0;12.0;Highly Urban/ Urban;17/02/2022;complet;dev_express;253,09;36925-463
+F;60;Non;Non;[40k€+];Private;Minivan;no;2;11.0;Highly Urban/ Urban;19/04/2022;complet;dev_integral;281,06;85740-464
+M;76;Oui;Oui;[0, 20k€];Commercial;Pickup;no;0;5.0;z_Highly Rural/ Rural;18/05/2022;complet;dev_integral;289,84;62765-465
+M;88;Non;Non;[40k€+];Commercial;Pickup;yes;1;12.0;z_Highly Rural/ Rural;13/03/2022;complet;dev_express;284,8;72454-466
+F;3;Oui;Oui;[40k€+];Commercial;Van;yes;0;;Highly Urban/ Urban;11/05/2022;complet;dev_express;284,12;33245-467
+F;13;Non;Non;[40k€+];Commercial;Panel Truck;no;1;;Highly Urban/ Urban;11/01/2022;complet;dev_premium;457,31;48918-468
+F;21;Non;Non;[20k€, 40k€];Private;z_SUV;no;2;6.0;Highly Urban/ Urban;09/05/2022;complet;dev_integral;320,19;45722-469
+F;59;Oui;Oui;[0, 20k€];Commercial;Minivan;no;6;1.0;Highly Urban/ Urban;04/01/2022;complet;dev_integral;321,29;26779-470
+F;57;Non;Oui;[0, 20k€];Private;z_SUV;no;7;6.0;Highly Urban/ Urban;30/05/2022;complet;dev_express;257,35;83067-471
+M;30;Non;Non;[40k€+];Private;Minivan;yes;1;9.0;Highly Urban/ Urban;06/03/2022;complet;dev_express;258,32;34839-472
+M;25;Non;Oui;[20k€, 40k€];Private;z_SUV;no;7;4.0;Highly Urban/ Urban;19/01/2022;complet;dev_premium;487,49;57748-473
+F;8;Non;Oui;[40k€+];Private;Pickup;no;2;9.0;Highly Urban/ Urban;20/04/2022;complet;dev_integral;332,47;61138-474
+M;59;Non;Non;[0, 20k€];Private;z_SUV;no;1;1.0;Highly Urban/ Urban;24/05/2022;complet;dev_express;261,61;76328-475
+F;23;Non;Oui;[0, 20k€];Private;z_SUV;no;8;1.0;Highly Urban/ Urban;26/03/2022;complet;dev_express;279,84;74855-476
+F;78;Non;Non;[0, 20k€];Private;z_SUV;no;1;8.0;Highly Urban/ Urban;23/03/2022;complet;dev_integral;308,28;85954-477
+M;30;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;18.0;Highly Urban/ Urban;12/04/2022;complet;dev_integral;283,25;98534-478
+M;31;Non;Non;[40k€+];Private;Minivan;no;0;11.0;Highly Urban/ Urban;15/04/2022;complet;dev_integral;311,44;27962-479
+F;70;Non;Non;[40k€+];Commercial;Pickup;yes;1;6.0;Highly Urban/ Urban;20/04/2022;complet;dev_express;254,57;56825-480
+F;73;Non;Non;[20k€, 40k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;02/05/2022;complet;dev_integral;318,83;64045-481
+F;69;Non;Oui;[0, 20k€];Private;Van;yes;6;1.0;Highly Urban/ Urban;21/05/2022;complet;dev_express;270,25;95775-482
+F;26;Non;Oui;[40k€+];Private;z_SUV;no;0;;Highly Urban/ Urban;01/03/2022;complet;dev_express;280,86;22455-483
+F;54;Oui;Oui;[40k€+];Private;Minivan;no;3;7.0;Highly Urban/ Urban;10/05/2022;complet;dev_premium;474,7;28257-484
+F;73;Non;Non;[40k€+];Private;Sports Car;no;1;10.0;Highly Urban/ Urban;06/03/2022;complet;dev_integral;314,87;46719-485
+F;6;Non;Non;[0, 20k€];Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;26/05/2022;complet;dev_integral;298,09;29411-486
+F;24;Oui;Oui;[20k€, 40k€];Private;Sports Car;no;1;1.0;Highly Urban/ Urban;25/04/2022;complet;dev_integral;292,34;90506-487
+M;62;Non;Non;[20k€, 40k€];Commercial;z_SUV;no;0;1.0;z_Highly Rural/ Rural;29/05/2022;complet;dev_premium;325,92;54861-488
+M;10;Non;Oui;[20k€, 40k€];Private;Sports Car;no;5;10.0;Highly Urban/ Urban;03/02/2022;complet;dev_express;260,98;96707-489
+M;30;Non;Oui;[20k€, 40k€];Commercial;Minivan;no;0;8.0;Highly Urban/ Urban;16/05/2022;complet;dev_express;273,65;20285-490
+F;60;Oui;Oui;[40k€+];Private;z_SUV;no;1;10.0;Highly Urban/ Urban;15/05/2022;complet;dev_express;269,08;42772-491
+M;76;Non;Oui;[40k€+];Private;z_SUV;no;2;6.0;Highly Urban/ Urban;28/05/2022;complet;dev_express;266,44;67133-492
+F;77;Non;Non;[0, 20k€];Commercial;Pickup;yes;2;11.0;z_Highly Rural/ Rural;27/03/2022;complet;dev_integral;283,43;93777-493
+M;52;Non;Non;[20k€, 40k€];Private;z_SUV;no;4;1.0;Highly Urban/ Urban;03/02/2022;complet;dev_integral;334,71;86954-494
+F;10;Non;Non;[40k€+];Commercial;Panel Truck;yes;4;8.0;Highly Urban/ Urban;06/05/2022;complet;dev_premium;527,56;89365-495
+F;23;Non;Non;[20k€, 40k€];Private;Minivan;no;3;;z_Highly Rural/ Rural;12/05/2022;complet;dev_premium;386,65;72233-496
+F;74;Non;Non;[40k€+];Commercial;Van;yes;1;13.0;Highly Urban/ Urban;15/01/2022;complet;dev_integral;297,77;66690-497
+M;15;Oui;Oui;[0, 20k€];Commercial;Pickup;yes;1;1.0;Highly Urban/ Urban;24/01/2022;complet;dev_integral;332,21;95856-498
+M;51;Non;Non;[40k€+];Private;Pickup;no;0;19.0;Highly Urban/ Urban;17/03/2022;complet;dev_integral;327,59;35292-499
+M;94;Non;Non;[0, 20k€];Private;z_SUV;no;1;9.0;z_Highly Rural/ Rural;29/03/2022;complet;dev_integral;302,86;56007-500
+M;21;Non;Non;[40k€+];Private;Pickup;yes;0;;Highly Urban/ Urban;10/05/2022;complet;dev_express;273,02;17362-501
+F;62;Non;Non;[40k€+];Private;Minivan;no;0;15.0;Highly Urban/ Urban;14/03/2022;complet;dev_express;263,93;45393-502
+F;77;Non;Non;[20k€, 40k€];Private;Pickup;no;0;10.0;z_Highly Rural/ Rural;31/05/2022;complet;dev_premium;522,24;81004-503
+F;8;Non;Non;[40k€+];Private;z_SUV;no;0;7.0;Highly Urban/ Urban;10/05/2022;complet;dev_integral;332,65;74278-504
+F;60;Non;Oui;[20k€, 40k€];Commercial;Pickup;no;0;1.0;Highly Urban/ Urban;14/05/2022;complet;dev_express;253,61;10229-505
+F;88;Non;Non;[40k€+];Commercial;Van;no;2;12.0;Highly Urban/ Urban;07/05/2022;complet;dev_express;252,16;21984-506
+F;55;Non;Non;[40k€+];Private;Pickup;yes;1;1.0;z_Highly Rural/ Rural;17/05/2022;complet;dev_integral;329,41;93748-507
+M;54;Non;Non;[0, 20k€];Commercial;Minivan;yes;0;8.0;Highly Urban/ Urban;17/03/2022;complet;dev_integral;298,3;62915-508
+F;47;Non;Non;[40k€+];Commercial;Van;yes;3;10.0;Highly Urban/ Urban;15/03/2022;complet;dev_premium;430,52;61467-509
+F;54;Non;Non;[40k€+];Private;Minivan;no;0;13.0;Highly Urban/ Urban;30/03/2022;complet;dev_express;272,23;67612-510
+F;61;Non;Non;[40k€+];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;21/01/2022;complet;dev_express;263,8;72994-511
+M;64;Non;Oui;[0, 20k€];Commercial;z_SUV;no;2;1.0;Highly Urban/ Urban;18/01/2022;complet;dev_express;259,98;53704-512
+F;20;Non;Non;[0, 20k€];Commercial;Minivan;yes;1;17.0;Highly Urban/ Urban;19/04/2022;complet;dev_integral;286,67;97513-513
+M;59;Non;Non;[20k€, 40k€];Commercial;Pickup;yes;0;7.0;z_Highly Rural/ Rural;18/05/2022;complet;dev_premium;372,34;55121-514
+M;58;Non;Non;[40k€+];Private;Minivan;no;0;21.0;Highly Urban/ Urban;04/04/2022;complet;dev_express;268;52222-515
+M;57;Non;Oui;[40k€+];Private;Minivan;yes;0;8.0;Highly Urban/ Urban;25/03/2022;complet;dev_integral;319,24;38078-516
+F;63;Non;Oui;[40k€+];Commercial;Minivan;no;7;1.0;Highly Urban/ Urban;23/03/2022;complet;dev_integral;282,89;39509-517
+F;36;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;11.0;Highly Urban/ Urban;25/03/2022;complet;dev_express;275,68;54624-518
+M;31;Non;Non;Inconnus;Private;Minivan;yes;0;22.0;Highly Urban/ Urban;23/02/2022;complet;dev_integral;334,94;79249-519
+F;85;Non;Non;[40k€+];Commercial;z_SUV;no;4;10.0;Highly Urban/ Urban;08/04/2022;complet;dev_premium;517,07;13684-520
+M;71;Non;Non;[40k€+];Private;Minivan;no;0;;Highly Urban/ Urban;25/02/2022;complet;dev_integral;336,76;63671-521
+F;70;Non;Non;[20k€, 40k€];Private;z_SUV;no;2;8.0;Highly Urban/ Urban;07/02/2022;complet;dev_integral;285,04;98372-522
+M;6;Oui;Oui;[0, 20k€];Commercial;Minivan;no;0;4.0;z_Highly Rural/ Rural;01/04/2022;complet;dev_integral;315,15;48559-523
+M;18;Non;Non;[40k€+];Private;Minivan;no;3;;Highly Urban/ Urban;25/05/2022;complet;dev_express;269,36;67544-524
+F;82;Non;Non;[20k€, 40k€];Private;z_SUV;no;5;7.0;Highly Urban/ Urban;21/04/2022;complet;dev_express;261,39;56611-525
+F;61;Non;Non;[20k€, 40k€];Private;Minivan;yes;0;1.0;Highly Urban/ Urban;31/05/2022;complet;dev_premium;341,99;73339-526
+M;34;Non;Non;Inconnus;Commercial;Pickup;no;0;1.0;Highly Urban/ Urban;19/02/2022;complet;dev_express;271,28;39491-527
+F;62;Oui;Oui;[40k€+];Private;z_SUV;no;9;6.0;Highly Urban/ Urban;23/05/2022;complet;dev_integral;332,42;21094-528
+M;86;Non;Oui;[40k€+];Commercial;Pickup;no;0;4.0;z_Highly Rural/ Rural;24/02/2022;complet;dev_integral;322,96;31527-529
+M;84;Non;Oui;[40k€+];Private;Sports Car;no;0;;Highly Urban/ Urban;28/05/2022;complet;dev_express;277,92;85036-530
+F;79;Non;Non;[20k€, 40k€];Private;Minivan;no;0;9.0;Highly Urban/ Urban;18/05/2022;complet;dev_express;251,69;18393-531
+M;56;Non;Oui;[20k€, 40k€];Commercial;Panel Truck;yes;4;1.0;Highly Urban/ Urban;12/03/2022;complet;dev_express;284,6;61522-532
+M;54;Oui;Oui;[40k€+];Commercial;Pickup;yes;2;8.0;z_Highly Rural/ Rural;06/03/2022;complet;dev_express;262,22;83566-533
+M;91;Non;Non;Inconnus;Commercial;Pickup;yes;3;1.0;Highly Urban/ Urban;04/03/2022;complet;dev_express;283,8;72424-534
+M;73;Non;Oui;[40k€+];Commercial;Pickup;yes;2;13.0;z_Highly Rural/ Rural;10/05/2022;complet;dev_premium;393,63;43463-535
+M;48;Non;Oui;Inconnus;Private;Pickup;yes;3;9.0;Highly Urban/ Urban;08/04/2022;complet;dev_express;280,57;20658-536
+F;60;Non;Non;[40k€+];Commercial;z_SUV;no;1;1.0;Highly Urban/ Urban;20/01/2022;complet;dev_express;268,71;32716-537
+F;68;Non;Oui;Inconnus;Private;Minivan;yes;2;;z_Highly Rural/ Rural;06/01/2022;complet;dev_express;253,2;45765-538
+F;38;Non;Oui;[0, 20k€];Private;Sports Car;no;2;8.0;z_Highly Rural/ Rural;07/01/2022;complet;dev_integral;289,94;98471-539
+F;51;Non;Non;[20k€, 40k€];Private;Pickup;yes;1;1.0;Highly Urban/ Urban;04/05/2022;complet;dev_express;284,96;91930-540
+M;7;Non;Non;[40k€+];Private;Pickup;no;2;15.0;Highly Urban/ Urban;05/05/2022;complet;dev_integral;332,61;72179-541
+F;6;Oui;Oui;[40k€+];Private;Sports Car;no;7;18.0;Highly Urban/ Urban;14/03/2022;complet;dev_express;275,26;87501-542
+M;90;Non;Non;[40k€+];Private;Minivan;no;2;12.0;Highly Urban/ Urban;13/02/2022;complet;dev_express;251,14;91872-543
+M;88;Non;Non;[20k€, 40k€];Private;Minivan;yes;0;17.0;z_Highly Rural/ Rural;27/03/2022;complet;dev_integral;306,94;41932-544
+F;58;Non;Non;[40k€+];Private;Sports Car;no;0;1.0;Highly Urban/ Urban;02/02/2022;complet;dev_integral;301,48;77759-545
+F;85;Oui;Oui;[40k€+];Commercial;Panel Truck;yes;0;14.0;z_Highly Rural/ Rural;22/05/2022;complet;dev_integral;310,27;10927-546
+M;60;Non;Non;[20k€, 40k€];Private;Sports Car;no;2;9.0;Highly Urban/ Urban;03/02/2022;complet;dev_integral;281,05;40489-547
+M;29;Non;Non;[20k€, 40k€];Private;z_SUV;no;3;7.0;Highly Urban/ Urban;17/04/2022;complet;dev_express;251,67;13191-548
+F;70;Non;Non;[40k€+];Private;Sports Car;no;0;9.0;Highly Urban/ Urban;30/01/2022;complet;dev_integral;284,24;56072-549
+M;74;Non;Non;[40k€+];Private;z_SUV;no;3;12.0;Highly Urban/ Urban;04/01/2022;complet;dev_integral;282,57;91682-550
+F;31;Non;Oui;[40k€+];Private;Pickup;yes;2;11.0;z_Highly Rural/ Rural;20/02/2022;complet;dev_premium;469,2;47025-551
+M;39;Non;Non;[40k€+];Private;z_SUV;no;0;18.0;Highly Urban/ Urban;22/03/2022;complet;dev_integral;320,68;20342-552
+M;73;Non;Non;Inconnus;Private;Sports Car;no;0;20.0;Highly Urban/ Urban;14/04/2022;complet;dev_integral;304,81;24051-553
+M;87;Non;Non;[20k€, 40k€];Commercial;z_SUV;no;4;9.0;Highly Urban/ Urban;28/03/2022;complet;dev_integral;304,92;39141-554
+M;47;Non;Non;[40k€+];Commercial;z_SUV;no;0;5.0;Highly Urban/ Urban;15/01/2022;complet;dev_integral;309,89;73018-555
+M;93;Oui;Oui;[40k€+];Commercial;Pickup;no;1;7.0;Highly Urban/ Urban;30/03/2022;complet;dev_express;256,82;79600-556
+M;17;Non;Non;Inconnus;Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;03/04/2022;complet;dev_express;278,42;93068-557
+M;6;Non;Oui;[40k€+];Private;Minivan;no;0;;Highly Urban/ Urban;11/04/2022;complet;dev_integral;327,03;35271-558
+F;67;Non;Non;[0, 20k€];Commercial;Panel Truck;yes;0;;Highly Urban/ Urban;18/05/2022;complet;dev_integral;305,08;59160-559
+M;91;Non;Non;[0, 20k€];Private;Pickup;yes;4;1.0;Highly Urban/ Urban;02/04/2022;complet;dev_integral;322,35;25832-560
+M;3;Non;Non;[40k€+];Private;Minivan;yes;0;19.0;Highly Urban/ Urban;09/03/2022;complet;dev_express;266,19;25510-561
+M;19;Non;Non;[0, 20k€];Private;Sports Car;no;0;10.0;Highly Urban/ Urban;13/04/2022;complet;dev_integral;338;41744-562
+M;36;Non;Non;[40k€+];Commercial;Van;yes;3;18.0;Highly Urban/ Urban;14/03/2022;complet;dev_integral;335,82;19344-563
+M;53;Non;Oui;[20k€, 40k€];Private;Minivan;no;1;10.0;Highly Urban/ Urban;12/05/2022;complet;dev_express;284,54;85837-564
+F;25;Non;Oui;[0, 20k€];Private;Van;no;0;1.0;Highly Urban/ Urban;01/01/2022;complet;dev_integral;291,93;42953-565
+M;27;Oui;Oui;[40k€+];Private;z_SUV;no;4;16.0;Highly Urban/ Urban;25/05/2022;complet;dev_express;254,31;21569-566
+F;58;Non;Non;[0, 20k€];Private;z_SUV;no;0;9.0;Highly Urban/ Urban;16/05/2022;complet;dev_express;265,89;28380-567
+M;15;Oui;Oui;[0, 20k€];Private;Pickup;no;1;7.0;Highly Urban/ Urban;27/02/2022;complet;dev_integral;308,37;45596-568
+F;87;Non;Non;[40k€+];Private;Pickup;no;0;15.0;Highly Urban/ Urban;09/03/2022;complet;dev_integral;299,31;80790-569
+M;32;Non;Non;[40k€+];Private;z_SUV;no;4;13.0;Highly Urban/ Urban;31/05/2022;complet;dev_express;274,77;31585-570
+F;63;Non;Non;[40k€+];Private;Minivan;no;0;14.0;Highly Urban/ Urban;02/03/2022;complet;dev_premium;352,18;82696-571
+F;23;Non;Oui;[40k€+];Commercial;Panel Truck;yes;0;24.0;Highly Urban/ Urban;24/04/2022;complet;dev_premium;519,58;88796-572
+F;68;Non;Non;[0, 20k€];Commercial;Pickup;no;3;10.0;Highly Urban/ Urban;21/01/2022;complet;dev_express;284,6;60491-573
+F;74;Non;Non;[40k€+];Private;z_SUV;no;4;13.0;Highly Urban/ Urban;07/03/2022;complet;dev_express;264,65;34478-574
+F;9;Non;Non;[0, 20k€];Private;Pickup;yes;0;17.0;z_Highly Rural/ Rural;31/05/2022;complet;dev_express;284,87;17600-575
+M;86;Non;Oui;[40k€+];Commercial;Van;yes;4;8.0;Highly Urban/ Urban;13/05/2022;complet;dev_integral;297,92;59731-576
+F;65;Non;Non;[40k€+];Private;Pickup;yes;0;15.0;Highly Urban/ Urban;23/05/2022;complet;dev_integral;291,25;45707-577
+M;18;Non;Non;[0, 20k€];Commercial;Minivan;no;1;10.0;Highly Urban/ Urban;11/05/2022;complet;dev_express;284,38;40264-578
+M;58;Non;Non;[0, 20k€];Private;Minivan;yes;3;1.0;Highly Urban/ Urban;05/04/2022;complet;dev_integral;332,26;77275-579
+M;47;Non;Non;[40k€+];Private;z_SUV;no;8;1.0;Highly Urban/ Urban;27/05/2022;complet;dev_integral;319,56;84863-580
+M;56;Non;Oui;[20k€, 40k€];Private;Minivan;yes;2;1.0;Highly Urban/ Urban;20/04/2022;complet;dev_premium;399,21;90797-581
+M;51;Non;Oui;[0, 20k€];Commercial;Panel Truck;yes;0;10.0;Highly Urban/ Urban;25/01/2022;complet;dev_express;250,8;50694-582
+M;56;Non;Oui;[40k€+];Private;Minivan;yes;1;13.0;Highly Urban/ Urban;08/04/2022;complet;dev_express;265,74;86734-583
+M;90;Non;Non;[0, 20k€];Private;Minivan;yes;0;7.0;z_Highly Rural/ Rural;18/02/2022;complet;dev_integral;327,38;92054-584
+F;39;Non;Non;[40k€+];Commercial;Minivan;no;0;;Highly Urban/ Urban;12/01/2022;complet;dev_integral;319,03;34973-585
+M;89;Non;Non;[0, 20k€];Private;Sports Car;no;2;1.0;Highly Urban/ Urban;10/01/2022;complet;dev_integral;322,09;91951-586
+M;93;Oui;Oui;[40k€+];Private;z_SUV;no;1;5.0;Highly Urban/ Urban;10/05/2022;complet;dev_premium;442,11;38524-587
+M;89;Non;Oui;Inconnus;Private;z_SUV;no;0;10.0;z_Highly Rural/ Rural;23/03/2022;complet;dev_premium;435,01;56474-588
+M;64;Non;Non;[0, 20k€];Private;z_SUV;no;5;3.0;Highly Urban/ Urban;19/02/2022;complet;dev_integral;280,5;70442-589
+M;38;Oui;Oui;Inconnus;Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;27/04/2022;complet;dev_express;263,57;44413-590
+F;80;Non;Non;[20k€, 40k€];Private;Pickup;yes;0;1.0;Highly Urban/ Urban;23/04/2022;complet;dev_express;278,58;23379-591
+F;51;Non;Non;[40k€+];Commercial;Panel Truck;yes;5;10.0;Highly Urban/ Urban;21/05/2022;complet;dev_integral;310,01;81466-592
+M;7;Non;Non;[40k€+];Private;Van;yes;6;;Highly Urban/ Urban;06/01/2022;complet;dev_express;279,45;34958-593
+M;5;Non;Oui;[40k€+];Private;z_SUV;no;0;14.0;Highly Urban/ Urban;08/04/2022;complet;dev_integral;313,53;82169-594
+F;84;Non;Non;[40k€+];Private;z_SUV;no;0;6.0;Highly Urban/ Urban;25/04/2022;complet;dev_integral;337,38;32677-595
+M;87;Non;Non;[40k€+];Private;Sports Car;no;1;19.0;Highly Urban/ Urban;09/01/2022;complet;dev_express;256,27;50633-596
+M;43;Non;Non;[0, 20k€];Private;Minivan;yes;2;6.0;z_Highly Rural/ Rural;05/02/2022;complet;dev_integral;321,63;13283-597
+M;90;Non;Non;[40k€+];Private;Minivan;yes;2;14.0;Highly Urban/ Urban;01/03/2022;complet;dev_integral;299,44;40996-598
+M;65;Non;Non;[0, 20k€];Private;Sports Car;no;2;20.0;z_Highly Rural/ Rural;14/02/2022;complet;dev_premium;405,93;11108-599
+F;32;Non;Oui;[40k€+];Commercial;Pickup;yes;7;7.0;Highly Urban/ Urban;13/02/2022;complet;dev_integral;295,02;31054-600
+M;59;Oui;Oui;Inconnus;Commercial;Pickup;yes;2;1.0;z_Highly Rural/ Rural;11/03/2022;complet;dev_premium;362,49;74155-601
+M;60;Oui;Oui;[40k€+];Commercial;z_SUV;no;1;13.0;Highly Urban/ Urban;12/01/2022;complet;dev_express;260,09;36890-602
+F;62;Oui;Oui;[0, 20k€];Private;Minivan;no;0;13.0;Highly Urban/ Urban;10/03/2022;complet;dev_integral;306,89;67365-603
+M;66;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;6.0;Highly Urban/ Urban;10/05/2022;complet;dev_express;270,67;77235-604
+F;12;Non;Non;[40k€+];Commercial;z_SUV;no;3;1.0;Highly Urban/ Urban;11/01/2022;complet;dev_premium;476,65;12298-605
+M;33;Non;Non;Inconnus;Private;Sports Car;no;0;7.0;z_Highly Rural/ Rural;05/05/2022;complet;dev_premium;456,1;70100-606
+F;59;Non;Oui;[40k€+];Private;Minivan;yes;1;15.0;Highly Urban/ Urban;21/02/2022;complet;dev_integral;314,81;91246-607
+M;55;Non;Non;[40k€+];Commercial;Van;yes;0;13.0;Highly Urban/ Urban;07/04/2022;complet;dev_premium;483,85;35070-608
+M;71;Non;Non;[40k€+];Commercial;Minivan;no;2;7.0;Highly Urban/ Urban;07/02/2022;complet;dev_integral;288,31;92983-609
+F;6;Non;Oui;[20k€, 40k€];Commercial;z_SUV;no;0;7.0;z_Highly Rural/ Rural;28/05/2022;complet;dev_express;276,68;22836-610
+M;66;Non;Non;[40k€+];Private;Minivan;no;0;7.0;Highly Urban/ Urban;03/03/2022;complet;dev_integral;313,96;64842-611
+M;25;Non;Oui;[40k€+];Private;Minivan;yes;0;16.0;Highly Urban/ Urban;07/02/2022;complet;dev_integral;310,68;87026-612
+F;38;Non;Non;[40k€+];Private;z_SUV;no;0;15.0;z_Highly Rural/ Rural;07/01/2022;complet;dev_premium;321,04;15613-613
+M;8;Non;Non;[20k€, 40k€];Commercial;Minivan;no;0;7.0;Highly Urban/ Urban;26/02/2022;complet;dev_premium;485,89;23814-614
+M;17;Non;Non;[40k€+];Private;Van;yes;0;18.0;Highly Urban/ Urban;07/04/2022;complet;dev_integral;309,03;44637-615
+F;74;Non;Non;[40k€+];Private;Sports Car;no;4;21.0;Highly Urban/ Urban;22/03/2022;complet;dev_express;250,78;99583-616
+F;15;Non;Non;[40k€+];Private;z_SUV;no;1;13.0;z_Highly Rural/ Rural;12/01/2022;complet;dev_integral;317;56681-617
+M;57;Oui;Oui;[20k€, 40k€];Private;Sports Car;no;0;11.0;Highly Urban/ Urban;10/03/2022;complet;dev_integral;315,83;77756-618
+F;8;Non;Non;[40k€+];Commercial;Sports Car;no;2;;Highly Urban/ Urban;11/02/2022;complet;dev_integral;294,5;65867-619
+F;31;Non;Non;[40k€+];Private;Minivan;yes;2;;z_Highly Rural/ Rural;17/04/2022;complet;dev_express;253,02;64787-620
+M;71;Non;Oui;Inconnus;Private;Minivan;yes;3;5.0;Highly Urban/ Urban;20/05/2022;complet;dev_integral;330,97;64584-621
+F;20;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;17.0;z_Highly Rural/ Rural;08/01/2022;complet;dev_express;254,26;97299-622
+M;20;Non;Non;[40k€+];Private;Sports Car;no;3;14.0;Highly Urban/ Urban;14/03/2022;complet;dev_express;268,8;12521-623
+M;22;Non;Non;[40k€+];Private;Pickup;no;0;10.0;Highly Urban/ Urban;23/05/2022;complet;dev_integral;294,98;17387-624
+M;21;Non;Non;[40k€+];Commercial;Sports Car;no;1;11.0;Highly Urban/ Urban;09/04/2022;complet;dev_integral;313,77;20468-625
+M;20;Non;Non;[40k€+];Private;Van;no;0;18.0;Highly Urban/ Urban;28/04/2022;complet;dev_integral;314,4;66522-626
+M;17;Non;Non;[20k€, 40k€];Private;Pickup;no;3;1.0;z_Highly Rural/ Rural;17/02/2022;complet;dev_premium;530,51;50088-627
+F;65;Non;Non;[40k€+];Private;Minivan;no;2;11.0;Highly Urban/ Urban;16/04/2022;complet;dev_express;276,22;29125-628
+M;13;Non;Non;[40k€+];Private;Minivan;no;0;13.0;Highly Urban/ Urban;14/04/2022;complet;dev_express;275,92;37318-629
+M;40;Non;Non;[40k€+];Commercial;Minivan;yes;0;9.0;Highly Urban/ Urban;26/04/2022;complet;dev_premium;445,25;78582-630
+M;48;Non;Non;[40k€+];Private;Sports Car;no;4;1.0;Highly Urban/ Urban;24/04/2022;complet;dev_integral;282,89;69769-631
+M;21;Non;Non;[40k€+];Private;Pickup;yes;0;8.0;Highly Urban/ Urban;03/03/2022;complet;dev_integral;312,17;21288-632
+M;5;Non;Non;[40k€+];Private;Minivan;yes;1;15.0;Highly Urban/ Urban;18/03/2022;complet;dev_integral;334,33;68728-633
+F;94;Non;Non;[40k€+];Private;Sports Car;no;2;8.0;Highly Urban/ Urban;28/04/2022;complet;dev_integral;281,56;74856-634
+F;18;Non;Oui;[40k€+];Commercial;Van;no;1;7.0;Highly Urban/ Urban;22/03/2022;complet;dev_express;282,69;21829-635
+F;22;Oui;Oui;[40k€+];Commercial;Pickup;no;4;10.0;Highly Urban/ Urban;08/02/2022;complet;dev_integral;312,57;71389-636
+F;28;Non;Non;[40k€+];Commercial;Panel Truck;no;0;;z_Highly Rural/ Rural;08/02/2022;complet;dev_integral;327,35;70573-637
+F;68;Non;Non;[20k€, 40k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;07/02/2022;complet;dev_integral;286,86;17162-638
+F;75;Non;Oui;[40k€+];Commercial;Pickup;no;2;1.0;Highly Urban/ Urban;22/03/2022;complet;dev_express;259,25;60756-639
+F;85;Non;Non;[20k€, 40k€];Commercial;Pickup;no;1;1.0;Highly Urban/ Urban;13/04/2022;complet;dev_premium;374,69;53946-640
+M;69;Oui;Oui;[0, 20k€];Private;Sports Car;no;4;1.0;Highly Urban/ Urban;16/02/2022;complet;dev_premium;497,76;48560-641
+F;17;Non;Non;[0, 20k€];Private;Minivan;yes;0;7.0;Highly Urban/ Urban;01/03/2022;complet;dev_integral;322,13;48157-642
+F;32;Non;Non;[20k€, 40k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;17/01/2022;complet;dev_integral;291,65;23768-643
+M;58;Oui;Oui;[0, 20k€];Private;Minivan;yes;2;7.0;z_Highly Rural/ Rural;21/05/2022;complet;dev_integral;333,22;67328-644
+F;49;Non;Non;[40k€+];Private;Minivan;no;6;17.0;Highly Urban/ Urban;17/04/2022;complet;dev_premium;347,46;30904-645
+F;21;Non;Non;[40k€+];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;13/02/2022;complet;dev_integral;305,15;28130-646
+M;74;Non;Oui;[40k€+];Private;Minivan;no;0;25.0;Highly Urban/ Urban;08/03/2022;complet;dev_express;281,83;70445-647
+M;59;Non;Non;[40k€+];Commercial;Minivan;no;1;9.0;z_Highly Rural/ Rural;01/05/2022;complet;dev_integral;307,17;60012-648
+M;29;Non;Non;[40k€+];Commercial;Pickup;no;0;16.0;Highly Urban/ Urban;10/02/2022;complet;dev_integral;316,09;73657-649
+F;31;Non;Oui;[40k€+];Private;Sports Car;no;0;;Highly Urban/ Urban;17/03/2022;complet;dev_integral;320,72;12745-650
+M;65;Non;Non;[20k€, 40k€];Commercial;z_SUV;no;1;8.0;z_Highly Rural/ Rural;10/02/2022;complet;dev_premium;341,44;42277-651
+F;61;Non;Non;[40k€+];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;16/01/2022;complet;dev_integral;308,62;37775-652
+M;69;Non;Oui;[40k€+];Commercial;Minivan;no;6;1.0;Highly Urban/ Urban;05/01/2022;complet;dev_integral;297,23;72209-653
+F;43;Oui;Oui;[40k€+];Commercial;Panel Truck;no;0;18.0;Highly Urban/ Urban;11/01/2022;complet;dev_vip;862,45;47643-654
+M;57;Non;Oui;[40k€+];Commercial;z_SUV;no;0;1.0;Highly Urban/ Urban;11/03/2022;complet;dev_integral;310,5;11074-655
+F;78;Non;Non;[20k€, 40k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;10/01/2022;complet;dev_integral;317,36;42096-656
+M;56;Oui;Oui;[20k€, 40k€];Commercial;Van;yes;1;1.0;Highly Urban/ Urban;15/05/2022;complet;dev_integral;284,71;19502-657
+F;72;Oui;Oui;Inconnus;Private;z_SUV;no;2;6.0;z_Highly Rural/ Rural;03/01/2022;complet;dev_integral;321,42;84742-658
+F;74;Non;Non;[40k€+];Private;Minivan;yes;1;11.0;Highly Urban/ Urban;22/01/2022;complet;dev_integral;333,28;99386-659
+F;80;Non;Non;[20k€, 40k€];Commercial;Pickup;no;1;4.0;Highly Urban/ Urban;03/04/2022;complet;dev_premium;399,35;71814-660
+F;28;Non;Non;[20k€, 40k€];Commercial;Pickup;yes;4;14.0;z_Highly Rural/ Rural;15/03/2022;complet;dev_integral;314,61;50967-661
+M;76;Non;Non;[0, 20k€];Private;Van;no;2;22.0;z_Highly Rural/ Rural;11/05/2022;complet;dev_vip;923,71;91613-662
+M;54;Non;Oui;[40k€+];Private;Minivan;no;5;16.0;Highly Urban/ Urban;20/02/2022;complet;dev_premium;503,89;37670-663
+M;46;Non;Non;[20k€, 40k€];Private;Sports Car;no;0;6.0;Highly Urban/ Urban;07/03/2022;complet;dev_integral;339,17;40588-664
+M;45;Oui;Oui;[40k€+];Commercial;Pickup;yes;4;18.0;Highly Urban/ Urban;11/04/2022;complet;dev_integral;316,56;16255-665
+M;78;Oui;Oui;[0, 20k€];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;21/01/2022;complet;dev_premium;547,81;75564-666
+M;8;Non;Non;[40k€+];Private;Minivan;yes;0;12.0;Highly Urban/ Urban;22/03/2022;complet;dev_integral;305,47;81846-667
+F;53;Non;Non;[40k€+];Commercial;Minivan;no;4;13.0;Highly Urban/ Urban;11/04/2022;complet;dev_integral;330,1;90617-668
+F;11;Non;Non;[20k€, 40k€];Private;z_SUV;no;2;1.0;Highly Urban/ Urban;17/01/2022;complet;dev_integral;327,18;38942-669
+M;24;Oui;Oui;[40k€+];Private;z_SUV;no;4;15.0;Highly Urban/ Urban;08/04/2022;complet;dev_integral;318,08;50217-670
+F;22;Non;Oui;[0, 20k€];Commercial;z_SUV;no;3;8.0;z_Highly Rural/ Rural;10/05/2022;complet;dev_express;253,4;41246-671
+M;39;Non;Oui;[0, 20k€];Private;z_SUV;no;1;1.0;z_Highly Rural/ Rural;23/02/2022;complet;dev_integral;298,94;75112-672
+M;69;Non;Oui;[40k€+];Private;Pickup;no;1;1.0;z_Highly Rural/ Rural;02/04/2022;complet;dev_express;268,72;92406-673
+F;46;Non;Non;[40k€+];Commercial;Pickup;no;1;6.0;Highly Urban/ Urban;15/02/2022;complet;dev_integral;292,91;58579-674
+M;82;Non;Non;[20k€, 40k€];Commercial;Minivan;yes;0;1.0;z_Highly Rural/ Rural;08/01/2022;complet;dev_express;254,43;74782-675
+M;87;Non;Oui;[40k€+];Commercial;Pickup;no;4;16.0;Highly Urban/ Urban;24/03/2022;complet;dev_integral;321,85;75848-676
+F;66;Non;Oui;[40k€+];Commercial;z_SUV;no;5;11.0;Highly Urban/ Urban;24/05/2022;complet;dev_integral;291,28;44275-677
+F;34;Non;Non;[40k€+];Private;Minivan;yes;5;15.0;Highly Urban/ Urban;17/01/2022;complet;dev_integral;291,34;79064-678
+M;72;Oui;Oui;[40k€+];Commercial;z_SUV;no;3;1.0;Highly Urban/ Urban;17/03/2022;complet;dev_integral;287,22;46719-679
+M;27;Non;Non;[40k€+];Private;Minivan;yes;0;1.0;z_Highly Rural/ Rural;18/03/2022;complet;dev_integral;321,81;23926-680
+F;12;Oui;Oui;[20k€, 40k€];Commercial;Van;no;1;5.0;Highly Urban/ Urban;05/01/2022;complet;dev_express;257,55;29669-681
+M;23;Non;Non;[40k€+];Commercial;Van;yes;0;5.0;Highly Urban/ Urban;13/05/2022;complet;dev_premium;390,86;13085-682
+M;72;Non;Non;[20k€, 40k€];Private;z_SUV;no;0;8.0;z_Highly Rural/ Rural;14/01/2022;complet;dev_express;263,51;17281-683
+F;70;Non;Non;[20k€, 40k€];Private;Minivan;yes;1;1.0;Highly Urban/ Urban;16/01/2022;complet;dev_premium;470,77;23246-684
+F;37;Non;Oui;[20k€, 40k€];Commercial;z_SUV;no;1;6.0;Highly Urban/ Urban;13/04/2022;complet;dev_integral;304,74;31117-685
+F;6;Non;Non;[40k€+];Private;z_SUV;no;0;11.0;Highly Urban/ Urban;09/03/2022;complet;dev_express;257;86108-686
+M;68;Non;Non;[40k€+];Private;Minivan;yes;0;1.0;Highly Urban/ Urban;15/03/2022;complet;dev_express;257,16;51436-687
+M;66;Non;Non;[40k€+];Commercial;Van;yes;2;8.0;z_Highly Rural/ Rural;07/02/2022;complet;dev_integral;320,07;23879-688
+M;80;Non;Non;[40k€+];Commercial;Minivan;no;0;3.0;Highly Urban/ Urban;08/03/2022;complet;dev_express;262,25;39911-689
+F;30;Non;Oui;[0, 20k€];Commercial;Pickup;yes;0;5.0;Highly Urban/ Urban;07/01/2022;complet;dev_premium;424,77;90066-690
+M;48;Non;Non;[20k€, 40k€];Private;Minivan;no;0;15.0;Highly Urban/ Urban;13/04/2022;complet;dev_premium;428,63;56042-691
+M;82;Non;Non;[20k€, 40k€];Private;Minivan;no;0;20.0;Highly Urban/ Urban;30/05/2022;complet;dev_integral;339,91;77349-692
+F;7;Non;Non;[40k€+];Commercial;Pickup;yes;4;8.0;Highly Urban/ Urban;10/03/2022;complet;dev_premium;474,78;33681-693
+F;43;Non;Non;[40k€+];Private;z_SUV;no;1;8.0;Highly Urban/ Urban;02/05/2022;complet;dev_express;253,37;11576-694
+F;52;Non;Non;[20k€, 40k€];Private;Pickup;yes;2;1.0;Highly Urban/ Urban;04/05/2022;complet;dev_express;265,76;66899-695
+M;9;Non;Non;[0, 20k€];Private;Minivan;no;2;12.0;Highly Urban/ Urban;17/05/2022;complet;dev_express;262,33;36901-696
+M;53;Non;Non;[40k€+];Private;Minivan;yes;0;11.0;Highly Urban/ Urban;25/04/2022;complet;dev_express;268,26;93516-697
+M;36;Non;Non;[40k€+];Private;Minivan;no;1;10.0;z_Highly Rural/ Rural;11/05/2022;complet;dev_express;273,34;85025-698
+M;52;Non;Oui;[40k€+];Private;z_SUV;no;1;12.0;Highly Urban/ Urban;05/02/2022;complet;dev_integral;291,56;25976-699
+F;62;Non;Oui;[0, 20k€];Private;Minivan;no;6;1.0;z_Highly Rural/ Rural;03/03/2022;complet;dev_express;283,39;89691-700
+M;62;Oui;Oui;[20k€, 40k€];Private;z_SUV;no;0;5.0;z_Highly Rural/ Rural;18/05/2022;complet;dev_integral;309,66;81020-701
+F;43;Non;Non;[40k€+];Commercial;Minivan;yes;0;9.0;z_Highly Rural/ Rural;25/02/2022;complet;dev_integral;334,71;15011-702
+M;80;Non;Non;[20k€, 40k€];Commercial;Panel Truck;no;5;5.0;Highly Urban/ Urban;18/01/2022;complet;dev_vip;698,96;38730-703
+F;58;Non;Non;[0, 20k€];Private;Minivan;no;3;7.0;Highly Urban/ Urban;08/05/2022;complet;dev_premium;504,54;45507-704
+M;67;Non;Oui;[40k€+];Private;z_SUV;no;0;5.0;Highly Urban/ Urban;19/02/2022;complet;dev_express;269,13;57514-705
+F;7;Non;Non;Inconnus;Commercial;Pickup;yes;6;3.0;Highly Urban/ Urban;10/01/2022;complet;dev_express;262,34;73951-706
+F;72;Non;Non;[40k€+];Commercial;Minivan;no;1;1.0;z_Highly Rural/ Rural;30/03/2022;complet;dev_express;276,11;97695-707
+F;23;Oui;Oui;[40k€+];Private;Van;yes;1;;Highly Urban/ Urban;07/05/2022;complet;dev_express;260,57;35248-708
+F;14;Non;Non;[20k€, 40k€];Private;Minivan;yes;0;1.0;Highly Urban/ Urban;20/05/2022;complet;dev_express;277,97;25119-709
+F;53;Non;Non;[40k€+];Commercial;Van;yes;3;21.0;Highly Urban/ Urban;07/05/2022;complet;dev_integral;337,24;12839-710
+M;72;Non;Non;[40k€+];Commercial;z_SUV;no;0;1.0;Highly Urban/ Urban;04/04/2022;complet;dev_premium;419,58;71054-711
+F;18;Non;Non;[40k€+];Private;Sports Car;no;0;10.0;Highly Urban/ Urban;04/03/2022;complet;dev_express;280,7;52848-712
+M;71;Non;Non;Inconnus;Commercial;Panel Truck;yes;1;;Highly Urban/ Urban;11/02/2022;complet;dev_integral;298,28;37607-713
+F;86;Oui;Oui;[0, 20k€];Commercial;z_SUV;no;0;7.0;Highly Urban/ Urban;31/03/2022;complet;dev_premium;438,71;47099-714
+F;70;Non;Non;[40k€+];Private;Van;no;0;1.0;Highly Urban/ Urban;26/01/2022;complet;dev_express;271,08;25541-715
+M;82;Oui;Oui;Inconnus;Commercial;Sports Car;no;2;1.0;Highly Urban/ Urban;13/02/2022;complet;dev_integral;304,69;14150-716
+M;8;Non;Non;[40k€+];Private;Pickup;no;0;17.0;Highly Urban/ Urban;15/01/2022;complet;dev_premium;427,32;33438-717
+M;25;Non;Non;[40k€+];Commercial;Panel Truck;no;0;9.0;Highly Urban/ Urban;23/02/2022;complet;dev_integral;333,27;78979-718
+F;24;Non;Oui;[40k€+];Private;z_SUV;no;0;15.0;Highly Urban/ Urban;21/03/2022;complet;dev_integral;317,33;88252-719
+M;31;Non;Non;[40k€+];Private;Sports Car;no;0;11.0;Highly Urban/ Urban;29/04/2022;complet;dev_integral;280,47;53892-720
+M;61;Non;Non;[0, 20k€];Private;z_SUV;no;0;9.0;z_Highly Rural/ Rural;07/03/2022;complet;dev_express;271,89;67497-721
+M;75;Non;Oui;[0, 20k€];Private;z_SUV;no;0;5.0;Highly Urban/ Urban;29/05/2022;complet;dev_express;284,51;60186-722
+M;55;Non;Oui;Inconnus;Private;Minivan;yes;2;1.0;Highly Urban/ Urban;10/03/2022;complet;dev_express;273,08;16698-723
+M;62;Non;Oui;[0, 20k€];Private;Minivan;yes;2;11.0;Highly Urban/ Urban;08/02/2022;complet;dev_express;257,2;54904-724
+F;19;Non;Non;[40k€+];Commercial;Van;no;8;11.0;Highly Urban/ Urban;11/04/2022;complet;dev_integral;303,76;11457-725
+M;87;Non;Non;Inconnus;Private;Van;no;0;9.0;Highly Urban/ Urban;26/05/2022;complet;dev_integral;280,23;29953-726
+M;4;Oui;Oui;[40k€+];Commercial;z_SUV;no;4;6.0;Highly Urban/ Urban;18/04/2022;complet;dev_express;261,27;74070-727
+F;5;Non;Non;[40k€+];Commercial;Pickup;no;0;17.0;Highly Urban/ Urban;19/02/2022;complet;dev_express;254,23;82139-728
+F;31;Non;Non;[40k€+];Commercial;Sports Car;no;3;9.0;Highly Urban/ Urban;12/04/2022;complet;dev_integral;320,08;65104-729
+M;66;Non;Oui;[20k€, 40k€];Commercial;Pickup;no;0;3.0;z_Highly Rural/ Rural;17/04/2022;complet;dev_integral;305,3;12068-730
+M;69;Non;Oui;Inconnus;Private;Minivan;yes;4;7.0;Highly Urban/ Urban;23/03/2022;complet;dev_integral;311,94;31222-731
+M;40;Non;Non;[40k€+];Private;z_SUV;no;4;14.0;Highly Urban/ Urban;05/02/2022;complet;dev_integral;286,39;74785-732
+F;62;Non;Oui;[40k€+];Private;Minivan;no;0;;Highly Urban/ Urban;26/03/2022;complet;dev_premium;383,03;74785-733
+F;42;Non;Non;[40k€+];Commercial;Van;no;3;10.0;Highly Urban/ Urban;18/04/2022;complet;dev_integral;320,22;40714-734
+M;17;Non;Non;Inconnus;Private;Minivan;yes;1;1.0;Highly Urban/ Urban;01/03/2022;complet;dev_integral;291,02;87154-735
+M;17;Non;Non;[40k€+];Commercial;Sports Car;no;0;1.0;Highly Urban/ Urban;30/01/2022;complet;dev_integral;290,27;30928-736
+F;11;Non;Oui;[0, 20k€];Private;z_SUV;no;6;1.0;z_Highly Rural/ Rural;02/02/2022;complet;dev_express;255,29;18254-737
+M;58;Oui;Oui;[40k€+];Commercial;Minivan;yes;0;6.0;Highly Urban/ Urban;08/04/2022;complet;dev_integral;313,56;43516-738
+F;66;Non;Non;[40k€+];Commercial;Panel Truck;yes;4;1.0;Highly Urban/ Urban;01/04/2022;complet;dev_express;275,01;16601-739
+M;22;Non;Non;[40k€+];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;07/01/2022;complet;dev_premium;323,42;56491-740
+F;63;Non;Oui;[40k€+];Private;z_SUV;no;3;14.0;Highly Urban/ Urban;06/05/2022;complet;dev_integral;298,08;31792-741
+M;19;Non;Non;[40k€+];Private;Van;yes;2;9.0;Highly Urban/ Urban;26/05/2022;complet;dev_premium;512,09;37236-742
+M;66;Non;Oui;[0, 20k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;09/03/2022;complet;dev_integral;338,79;39999-743
+M;59;Oui;Oui;[40k€+];Private;Van;no;3;10.0;Highly Urban/ Urban;04/02/2022;complet;dev_integral;307,64;12627-744
+M;69;Non;Oui;[40k€+];Commercial;Minivan;no;3;9.0;z_Highly Rural/ Rural;30/03/2022;complet;dev_express;268,49;93292-745
+M;56;Non;Non;[20k€, 40k€];Private;Minivan;yes;0;1.0;z_Highly Rural/ Rural;05/01/2022;complet;dev_integral;305,91;67808-746
+M;66;Non;Non;[40k€+];Commercial;Minivan;yes;0;8.0;Highly Urban/ Urban;13/03/2022;complet;dev_express;254,43;48720-747
+M;68;Non;Oui;[0, 20k€];Commercial;z_SUV;no;0;12.0;z_Highly Rural/ Rural;13/04/2022;complet;dev_integral;305,09;19696-748
+M;69;Non;Oui;[40k€+];Private;Minivan;no;1;14.0;Highly Urban/ Urban;03/05/2022;complet;dev_express;276,8;79293-749
+F;75;Non;Non;[40k€+];Private;z_SUV;no;5;5.0;Highly Urban/ Urban;10/03/2022;complet;dev_express;250,81;45350-750
+M;31;Non;Non;[40k€+];Commercial;z_SUV;no;0;8.0;Highly Urban/ Urban;19/03/2022;complet;dev_integral;332,19;30119-751
+M;5;Oui;Oui;[20k€, 40k€];Commercial;Pickup;no;3;9.0;Highly Urban/ Urban;12/05/2022;complet;dev_integral;316,7;50067-752
+M;75;Non;Non;[20k€, 40k€];Private;z_SUV;no;4;3.0;Highly Urban/ Urban;19/04/2022;complet;dev_express;260,09;33218-753
+F;30;Non;Non;[40k€+];Private;Minivan;yes;0;20.0;Highly Urban/ Urban;09/03/2022;complet;dev_express;254,94;10049-754
+M;58;Non;Non;[40k€+];Commercial;Panel Truck;yes;1;9.0;Highly Urban/ Urban;30/03/2022;complet;dev_integral;286,45;53740-755
+M;40;Non;Non;[20k€, 40k€];Private;Pickup;no;2;6.0;Highly Urban/ Urban;17/01/2022;complet;dev_integral;331,26;69024-756
+F;54;Non;Oui;[20k€, 40k€];Commercial;Pickup;no;7;1.0;Highly Urban/ Urban;14/04/2022;complet;dev_express;253,37;51186-757
+M;61;Non;Non;[0, 20k€];Private;Sports Car;no;1;8.0;Highly Urban/ Urban;07/04/2022;complet;dev_premium;347,46;26448-758
+F;30;Non;Non;[40k€+];Private;Sports Car;yes;1;10.0;Highly Urban/ Urban;26/01/2022;complet;dev_integral;337,92;67990-759
+M;18;Non;Oui;[40k€+];Private;Minivan;no;2;16.0;Highly Urban/ Urban;26/01/2022;complet;dev_integral;292,17;43982-760
+F;43;Non;Non;[40k€+];Private;z_SUV;no;2;11.0;Highly Urban/ Urban;15/03/2022;complet;dev_integral;337,34;61367-761
+F;56;Non;Non;[40k€+];Private;z_SUV;yes;0;17.0;Highly Urban/ Urban;30/05/2022;complet;dev_integral;328,65;25176-762
+M;8;Oui;Oui;[0, 20k€];Commercial;Pickup;yes;2;1.0;Highly Urban/ Urban;09/04/2022;complet;dev_express;256,95;81458-763
+F;49;Non;Non;[20k€, 40k€];Private;Minivan;yes;0;8.0;Highly Urban/ Urban;21/05/2022;complet;dev_premium;399,65;49390-764
+M;10;Non;Oui;[40k€+];Commercial;Pickup;yes;0;10.0;Highly Urban/ Urban;01/01/2022;complet;dev_integral;331,51;55997-765
+M;93;Non;Non;[40k€+];Private;z_SUV;no;2;15.0;Highly Urban/ Urban;24/02/2022;complet;dev_express;257,68;95481-766
+F;29;Non;Non;[40k€+];Private;Pickup;no;2;10.0;Highly Urban/ Urban;12/01/2022;complet;dev_integral;333,35;33381-767
+M;73;Oui;Oui;[0, 20k€];Private;Sports Car;no;0;1.0;Highly Urban/ Urban;14/01/2022;complet;dev_integral;332,58;27212-768
+F;62;Non;Oui;[0, 20k€];Commercial;Pickup;no;1;7.0;z_Highly Rural/ Rural;02/02/2022;complet;dev_integral;306,9;90362-769
+M;51;Non;Non;[40k€+];Private;Minivan;yes;2;14.0;Highly Urban/ Urban;10/04/2022;complet;dev_integral;323,6;29508-770
+M;16;Non;Non;[40k€+];Private;z_SUV;no;4;5.0;Highly Urban/ Urban;28/05/2022;complet;dev_integral;314,26;17838-771
+M;37;Non;Non;[40k€+];Commercial;Minivan;yes;1;1.0;Highly Urban/ Urban;19/05/2022;complet;dev_integral;334,21;86333-772
+F;53;Non;Non;[40k€+];Private;Minivan;yes;0;9.0;Highly Urban/ Urban;05/03/2022;complet;dev_integral;295,46;35916-773
+M;72;Non;Non;[40k€+];Commercial;Pickup;no;3;16.0;Highly Urban/ Urban;04/01/2022;complet;dev_express;276,21;29371-774
+M;30;Non;Non;[40k€+];Commercial;Van;yes;2;9.0;Highly Urban/ Urban;23/04/2022;complet;dev_integral;296,96;65548-775
+M;72;Non;Non;[40k€+];Private;z_SUV;no;2;16.0;Highly Urban/ Urban;19/01/2022;complet;dev_integral;315,02;19411-776
+M;62;Non;Non;[40k€+];Commercial;Pickup;no;0;19.0;Highly Urban/ Urban;14/05/2022;complet;dev_integral;281,77;25511-777
+M;67;Non;Non;[40k€+];Commercial;Pickup;no;4;4.0;Highly Urban/ Urban;22/02/2022;complet;dev_integral;325,17;76793-778
+F;31;Non;Non;[40k€+];Commercial;Panel Truck;no;0;17.0;Highly Urban/ Urban;24/02/2022;complet;dev_integral;312,46;91236-779
+M;66;Non;Oui;Inconnus;Commercial;Panel Truck;no;0;12.0;Highly Urban/ Urban;26/05/2022;complet;dev_express;282,02;12647-780
+F;43;Non;Oui;[40k€+];Commercial;z_SUV;no;1;1.0;z_Highly Rural/ Rural;14/01/2022;complet;dev_integral;294;81658-781
+M;66;Non;Non;[40k€+];Private;Minivan;no;1;16.0;z_Highly Rural/ Rural;06/01/2022;complet;dev_premium;490,24;10621-782
+F;8;Oui;Oui;[40k€+];Private;z_SUV;no;3;22.0;Highly Urban/ Urban;21/01/2022;complet;dev_integral;285,14;39234-783
+M;47;Non;Non;[40k€+];Private;Minivan;yes;2;12.0;Highly Urban/ Urban;12/04/2022;complet;dev_integral;294,05;66735-784
+M;52;Non;Non;[40k€+];Private;Minivan;no;1;15.0;Highly Urban/ Urban;05/01/2022;complet;dev_premium;418,4;71982-785
+M;65;Non;Non;[0, 20k€];Commercial;Pickup;no;1;11.0;Highly Urban/ Urban;10/01/2022;complet;dev_integral;330,24;64171-786
+F;64;Non;Non;[40k€+];Commercial;Minivan;no;0;1.0;z_Highly Rural/ Rural;08/04/2022;complet;dev_premium;336,67;87869-787
+M;64;Non;Non;[40k€+];Private;Pickup;yes;3;15.0;Highly Urban/ Urban;30/03/2022;complet;dev_integral;280,3;34968-788
+M;80;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;16.0;Highly Urban/ Urban;12/04/2022;complet;dev_express;281,71;61588-789
+F;83;Non;Non;[40k€+];Private;Minivan;yes;1;1.0;Highly Urban/ Urban;15/03/2022;complet;dev_integral;319,4;78455-790
+F;84;Non;Oui;[0, 20k€];Private;z_SUV;no;4;1.0;Highly Urban/ Urban;12/03/2022;complet;dev_integral;320,97;76281-791
+M;66;Non;Non;[40k€+];Commercial;Pickup;no;1;17.0;Highly Urban/ Urban;14/03/2022;complet;dev_integral;282,49;19789-792
+M;87;Non;Oui;[40k€+];Commercial;Van;yes;0;13.0;Highly Urban/ Urban;09/01/2022;complet;dev_integral;324,04;16885-793
+M;57;Non;Non;Inconnus;Commercial;z_SUV;no;1;7.0;Highly Urban/ Urban;27/02/2022;complet;dev_express;274,5;15117-794
+F;71;Oui;Oui;[0, 20k€];Private;z_SUV;no;0;10.0;Highly Urban/ Urban;02/02/2022;complet;dev_premium;470,02;24275-795
+M;71;Non;Non;[40k€+];Commercial;Sports Car;no;0;1.0;Highly Urban/ Urban;06/03/2022;complet;dev_express;281,61;70117-796
+M;59;Non;Non;[40k€+];Private;Minivan;yes;0;12.0;Highly Urban/ Urban;06/01/2022;complet;dev_express;256,21;32435-797
+F;38;Non;Non;[0, 20k€];Private;z_SUV;no;0;9.0;Highly Urban/ Urban;03/04/2022;complet;dev_integral;323,83;22005-798
+F;62;Non;Oui;[40k€+];Private;Minivan;no;0;10.0;Highly Urban/ Urban;30/04/2022;complet;dev_integral;280,43;86449-799
+M;86;Non;Non;[40k€+];Private;Pickup;no;0;13.0;Highly Urban/ Urban;19/03/2022;complet;dev_integral;301,77;18570-800
+F;89;Non;Non;[40k€+];Private;Minivan;yes;0;9.0;z_Highly Rural/ Rural;24/01/2022;complet;dev_express;279,89;33304-801
+F;62;Non;Oui;[0, 20k€];Private;Minivan;yes;0;1.0;Highly Urban/ Urban;23/02/2022;complet;dev_integral;302,72;65260-802
+M;64;Non;Oui;[0, 20k€];Commercial;Sports Car;no;7;8.0;Highly Urban/ Urban;17/05/2022;complet;dev_integral;287,79;81696-803
+F;28;Non;Non;Inconnus;Private;Van;no;4;1.0;Highly Urban/ Urban;06/03/2022;complet;dev_express;263,5;73610-804
+F;14;Non;Non;[0, 20k€];Private;Pickup;no;1;1.0;Highly Urban/ Urban;13/03/2022;complet;dev_integral;329,81;34064-805
+M;6;Non;Oui;Inconnus;Commercial;z_SUV;no;0;10.0;Highly Urban/ Urban;10/02/2022;complet;dev_premium;455,8;85390-806
+F;68;Non;Non;Inconnus;Private;z_SUV;no;0;16.0;Highly Urban/ Urban;16/01/2022;complet;dev_integral;312,48;32747-807
+M;56;Non;Non;[20k€, 40k€];Commercial;Panel Truck;yes;6;11.0;Highly Urban/ Urban;19/05/2022;complet;dev_express;258,64;87851-808
+M;75;Non;Oui;[40k€+];Private;z_SUV;no;2;18.0;Highly Urban/ Urban;18/04/2022;complet;dev_express;257,61;32249-809
+M;66;Non;Oui;[0, 20k€];Commercial;z_SUV;no;2;5.0;z_Highly Rural/ Rural;13/01/2022;complet;dev_integral;323,83;85633-810
+M;52;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;1.0;Highly Urban/ Urban;28/05/2022;complet;dev_integral;328,2;36985-811
+F;48;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;15.0;Highly Urban/ Urban;28/03/2022;complet;dev_express;266,46;19913-812
+F;82;Non;Oui;[40k€+];Private;Minivan;no;1;3.0;Highly Urban/ Urban;15/03/2022;complet;dev_integral;303,43;67404-813
+M;62;Non;Oui;[0, 20k€];Private;Pickup;yes;0;7.0;Highly Urban/ Urban;10/03/2022;complet;dev_integral;309,28;84802-814
+M;75;Non;Oui;[40k€+];Private;z_SUV;no;4;5.0;z_Highly Rural/ Rural;20/01/2022;complet;dev_express;255,36;14786-815
+F;61;Non;Non;[40k€+];Private;Minivan;yes;0;22.0;Highly Urban/ Urban;09/04/2022;complet;dev_integral;305,89;76025-816
+M;31;Non;Non;[40k€+];Commercial;Pickup;no;1;21.0;Highly Urban/ Urban;05/03/2022;complet;dev_premium;421,62;33369-817
+M;14;Oui;Oui;[40k€+];Commercial;Van;yes;0;14.0;Highly Urban/ Urban;09/04/2022;complet;dev_premium;438,48;36290-818
+F;60;Oui;Oui;[20k€, 40k€];Private;Pickup;no;5;1.0;Highly Urban/ Urban;16/02/2022;complet;dev_integral;292,43;86404-819
+M;78;Non;Oui;[0, 20k€];Commercial;Minivan;yes;6;10.0;Highly Urban/ Urban;06/04/2022;complet;dev_integral;334,86;33344-820
+F;68;Non;Non;[40k€+];Private;Van;no;4;11.0;Highly Urban/ Urban;23/03/2022;complet;dev_express;278,74;58560-821
+F;75;Non;Oui;[20k€, 40k€];Private;z_SUV;no;3;1.0;Highly Urban/ Urban;25/01/2022;complet;dev_express;284,85;58783-822
+F;25;Non;Oui;[0, 20k€];Commercial;z_SUV;no;1;7.0;Highly Urban/ Urban;21/01/2022;complet;dev_express;267,59;26933-823
+M;70;Non;Oui;[40k€+];Private;Minivan;no;8;15.0;Highly Urban/ Urban;27/01/2022;complet;dev_integral;339,19;32220-824
+M;78;Non;Oui;[0, 20k€];Commercial;z_SUV;no;9;1.0;Highly Urban/ Urban;22/04/2022;complet;dev_integral;331,67;24028-825
+M;69;Non;Non;[40k€+];Private;z_SUV;no;0;17.0;Highly Urban/ Urban;13/03/2022;complet;dev_express;278,65;10668-826
+F;62;Non;Non;[40k€+];Commercial;Van;no;4;8.0;Highly Urban/ Urban;15/01/2022;complet;dev_premium;382,01;67842-827
+F;3;Non;Non;Inconnus;Private;Minivan;no;3;15.0;Highly Urban/ Urban;24/02/2022;complet;dev_express;280,02;81603-828
+F;60;Non;Non;[40k€+];Private;Minivan;no;0;1.0;Highly Urban/ Urban;27/03/2022;complet;dev_integral;321,62;17645-829
+M;63;Non;Non;[40k€+];Commercial;Van;yes;0;10.0;Highly Urban/ Urban;02/04/2022;complet;dev_express;281,2;24735-830
+F;24;Non;Non;[20k€, 40k€];Private;Minivan;yes;1;1.0;Highly Urban/ Urban;18/02/2022;complet;dev_integral;284,75;92668-831
+M;80;Oui;Oui;[40k€+];Private;z_SUV;no;2;7.0;Highly Urban/ Urban;17/04/2022;complet;dev_integral;295,72;61148-832
+F;42;Non;Non;[20k€, 40k€];Commercial;Pickup;no;3;;z_Highly Rural/ Rural;20/05/2022;complet;dev_express;275,46;62668-833
+F;16;Non;Non;[0, 20k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;29/01/2022;complet;dev_integral;309,15;52618-834
+M;44;Non;Non;Inconnus;Private;z_SUV;no;3;7.0;Highly Urban/ Urban;01/05/2022;complet;dev_express;261,44;18892-835
+M;19;Non;Non;[0, 20k€];Private;z_SUV;no;4;1.0;Highly Urban/ Urban;02/05/2022;complet;dev_premium;428,95;65188-836
+F;64;Non;Non;[40k€+];Commercial;Van;yes;4;17.0;Highly Urban/ Urban;22/04/2022;complet;dev_express;271,35;85487-837
+M;69;Non;Non;[40k€+];Private;z_SUV;no;7;18.0;Highly Urban/ Urban;24/01/2022;complet;dev_integral;299,34;11981-838
+M;18;Non;Non;[40k€+];Private;Pickup;no;0;9.0;Highly Urban/ Urban;23/02/2022;complet;dev_premium;504,5;81418-839
+F;64;Non;Non;[40k€+];Commercial;Van;yes;4;1.0;Highly Urban/ Urban;22/05/2022;complet;dev_premium;441,6;92323-840
+F;47;Oui;Oui;[20k€, 40k€];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;17/03/2022;complet;dev_vip;969,98;56778-841
+F;14;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;10.0;Highly Urban/ Urban;04/04/2022;complet;dev_express;265,11;67934-842
+M;24;Non;Non;[20k€, 40k€];Private;Minivan;no;4;4.0;z_Highly Rural/ Rural;01/05/2022;complet;dev_integral;311,29;39166-843
+F;89;Non;Oui;[20k€, 40k€];Commercial;Panel Truck;yes;4;6.0;Highly Urban/ Urban;02/05/2022;complet;dev_integral;294,9;13640-844
+F;28;Oui;Oui;[40k€+];Commercial;Pickup;no;0;7.0;z_Highly Rural/ Rural;28/03/2022;complet;dev_integral;292,67;73355-845
+F;44;Non;Non;[40k€+];Commercial;Panel Truck;yes;1;12.0;Highly Urban/ Urban;19/05/2022;complet;dev_integral;305,81;89248-846
+M;56;Non;Non;[20k€, 40k€];Private;Van;no;0;6.0;Highly Urban/ Urban;14/05/2022;complet;dev_express;271,75;94731-847
+F;83;Non;Oui;[40k€+];Private;z_SUV;no;0;13.0;Highly Urban/ Urban;06/05/2022;complet;dev_premium;519,64;75366-848
+M;61;Non;Non;[40k€+];Commercial;Pickup;no;2;10.0;Highly Urban/ Urban;25/04/2022;complet;dev_premium;417,59;80282-849
+F;34;Non;Non;[40k€+];Private;z_SUV;no;6;13.0;Highly Urban/ Urban;18/03/2022;complet;dev_premium;493,33;72394-850
+F;40;Non;Non;[40k€+];Private;Minivan;no;0;17.0;Highly Urban/ Urban;15/04/2022;complet;dev_integral;310,21;19606-851
+F;70;Non;Non;[40k€+];Commercial;Pickup;no;0;9.0;Highly Urban/ Urban;20/01/2022;complet;dev_premium;413,23;82384-852
+F;17;Non;Non;Inconnus;Commercial;z_SUV;no;4;9.0;Highly Urban/ Urban;14/03/2022;complet;dev_vip;753,67;61814-853
+M;92;Non;Non;[40k€+];Private;Sports Car;no;3;12.0;Highly Urban/ Urban;08/01/2022;complet;dev_express;255,94;20385-854
+F;79;Non;Oui;[0, 20k€];Private;Sports Car;no;0;6.0;Highly Urban/ Urban;21/04/2022;complet;dev_integral;282,63;85365-855
+F;89;Non;Non;[40k€+];Private;z_SUV;no;4;;Highly Urban/ Urban;19/02/2022;complet;dev_premium;526,21;35683-856
+M;90;Non;Oui;[40k€+];Commercial;Panel Truck;yes;2;8.0;Highly Urban/ Urban;04/04/2022;complet;dev_integral;312,94;84060-857
+M;42;Oui;Oui;[40k€+];Private;z_SUV;no;4;6.0;z_Highly Rural/ Rural;17/01/2022;complet;dev_premium;351,31;41743-858
+F;43;Non;Non;[40k€+];Commercial;Panel Truck;no;5;12.0;Highly Urban/ Urban;14/01/2022;complet;dev_express;276,85;41810-859
+M;60;Non;Non;[40k€+];Commercial;Van;no;4;13.0;Highly Urban/ Urban;01/02/2022;complet;dev_integral;313,81;90628-860
+F;64;Non;Non;[40k€+];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;03/04/2022;complet;dev_integral;333,26;63607-861
+F;65;Non;Non;[20k€, 40k€];Private;Minivan;no;5;15.0;z_Highly Rural/ Rural;25/02/2022;complet;dev_integral;328,6;39888-862
+M;12;Oui;Oui;[0, 20k€];Private;z_SUV;no;0;5.0;Highly Urban/ Urban;14/05/2022;complet;dev_express;252,66;15851-863
+M;46;Non;Non;[20k€, 40k€];Private;Pickup;no;2;1.0;Highly Urban/ Urban;01/02/2022;complet;dev_express;252,73;71142-864
+F;9;Non;Non;[40k€+];Private;Minivan;yes;1;16.0;Highly Urban/ Urban;09/02/2022;complet;dev_premium;442,23;19205-865
+M;82;Non;Oui;[40k€+];Private;Pickup;yes;3;9.0;Highly Urban/ Urban;13/01/2022;complet;dev_integral;338,73;61060-866
+M;53;Non;Non;[40k€+];Private;z_SUV;no;0;8.0;Highly Urban/ Urban;14/05/2022;complet;dev_express;272,11;48104-867
+F;57;Non;Non;[40k€+];Private;z_SUV;no;3;;Highly Urban/ Urban;27/01/2022;complet;dev_premium;479,68;36534-868
+M;51;Non;Non;[40k€+];Commercial;Van;no;0;7.0;Highly Urban/ Urban;03/01/2022;complet;dev_integral;336,85;50513-869
+M;84;Non;Non;[0, 20k€];Commercial;Pickup;no;4;7.0;Highly Urban/ Urban;26/03/2022;complet;dev_integral;323,63;67680-870
+F;92;Non;Oui;[20k€, 40k€];Private;Minivan;no;0;10.0;Highly Urban/ Urban;07/03/2022;complet;dev_integral;335,82;51432-871
+M;65;Non;Non;[20k€, 40k€];Commercial;z_SUV;no;0;7.0;Highly Urban/ Urban;01/03/2022;complet;dev_integral;288,15;84360-872
+M;68;Non;Non;[40k€+];Commercial;z_SUV;yes;0;13.0;Highly Urban/ Urban;04/05/2022;complet;dev_integral;332,89;50711-873
+F;13;Non;Non;[40k€+];Commercial;z_SUV;no;0;12.0;Highly Urban/ Urban;04/02/2022;complet;dev_express;270,04;18868-874
+M;90;Non;Non;[40k€+];Commercial;Pickup;yes;6;9.0;Highly Urban/ Urban;26/04/2022;complet;dev_premium;399,83;60501-875
+F;56;Non;Non;[40k€+];Private;Minivan;no;1;7.0;Highly Urban/ Urban;02/01/2022;complet;dev_integral;303,4;15952-876
+M;62;Non;Non;[40k€+];Private;Minivan;no;7;22.0;Highly Urban/ Urban;26/03/2022;complet;dev_integral;331,22;33277-877
+M;56;Non;Non;[20k€, 40k€];Private;Van;yes;3;1.0;Highly Urban/ Urban;16/01/2022;complet;dev_integral;331,33;76922-878
+F;83;Non;Oui;[40k€+];Private;Sports Car;no;0;;Highly Urban/ Urban;26/05/2022;complet;dev_integral;317,67;61857-879
+M;89;Non;Non;[40k€+];Commercial;Pickup;yes;0;1.0;Highly Urban/ Urban;24/03/2022;complet;dev_express;284,35;77328-880
+M;55;Oui;Oui;[40k€+];Private;Sports Car;no;2;1.0;z_Highly Rural/ Rural;20/04/2022;complet;dev_express;253,11;36403-881
+M;49;Non;Non;[40k€+];Private;Pickup;yes;0;9.0;Highly Urban/ Urban;11/05/2022;complet;dev_integral;339,93;75179-882
+M;57;Non;Non;[40k€+];Commercial;Minivan;no;0;10.0;Highly Urban/ Urban;13/01/2022;complet;dev_express;281,02;41695-883
+F;54;Non;Non;[40k€+];Private;Minivan;yes;2;9.0;Highly Urban/ Urban;21/03/2022;complet;dev_express;272,42;52779-884
+F;43;Non;Non;[40k€+];Private;Minivan;no;0;11.0;z_Highly Rural/ Rural;18/01/2022;complet;dev_express;283,75;36180-885
+F;69;Non;Non;[40k€+];Commercial;z_SUV;no;1;1.0;Highly Urban/ Urban;13/04/2022;complet;dev_express;255,77;50471-886
+F;78;Non;Non;Inconnus;Commercial;Pickup;no;0;15.0;Highly Urban/ Urban;24/04/2022;complet;dev_express;271,82;13064-887
+M;64;Non;Non;[0, 20k€];Commercial;Pickup;no;4;7.0;Highly Urban/ Urban;10/02/2022;complet;dev_premium;516,61;33183-888
+F;75;Non;Non;[0, 20k€];Private;Minivan;yes;0;1.0;z_Highly Rural/ Rural;28/02/2022;complet;dev_integral;288,49;85344-889
+M;68;Non;Oui;[0, 20k€];Private;Pickup;no;0;8.0;z_Highly Rural/ Rural;05/02/2022;complet;dev_express;254,9;47331-890
+M;80;Non;Non;[40k€+];Private;Pickup;no;1;9.0;Highly Urban/ Urban;27/03/2022;complet;dev_express;284,78;77939-891
+F;38;Non;Non;Inconnus;Private;z_SUV;no;2;7.0;z_Highly Rural/ Rural;05/01/2022;complet;dev_express;258,02;45890-892
+M;57;Non;Non;[40k€+];Private;Minivan;no;2;14.0;Highly Urban/ Urban;03/05/2022;complet;dev_express;254,61;70518-893
+M;27;Non;Non;[20k€, 40k€];Commercial;z_SUV;yes;0;1.0;Highly Urban/ Urban;26/03/2022;complet;dev_express;253,48;44791-894
+F;83;Non;Non;[20k€, 40k€];Commercial;Panel Truck;no;1;15.0;Highly Urban/ Urban;31/01/2022;complet;dev_express;263,71;25681-895
+F;65;Non;Non;[40k€+];Private;Minivan;no;1;20.0;Highly Urban/ Urban;30/04/2022;complet;dev_express;266,17;18957-896
+F;3;Non;Oui;[40k€+];Commercial;Panel Truck;no;0;13.0;Highly Urban/ Urban;04/02/2022;complet;dev_premium;506,17;91842-897
+M;82;Non;Oui;[40k€+];Private;Sports Car;no;4;9.0;z_Highly Rural/ Rural;20/01/2022;complet;dev_integral;301,22;99756-898
+F;61;Non;Non;[40k€+];Private;Minivan;yes;0;19.0;Highly Urban/ Urban;22/03/2022;complet;dev_integral;313,6;86350-899
+M;74;Non;Oui;[0, 20k€];Private;Sports Car;no;0;13.0;Highly Urban/ Urban;31/05/2022;complet;dev_premium;407,08;60920-900
+M;43;Non;Non;Inconnus;Commercial;Sports Car;no;4;1.0;Highly Urban/ Urban;05/01/2022;complet;dev_integral;297,81;62862-901
+F;53;Non;Oui;[0, 20k€];Private;Sports Car;yes;10;0.0;Highly Urban/ Urban;23/04/2022;complet;dev_express;260,76;30817-902
+F;33;Non;Non;[40k€+];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;02/05/2022;complet;dev_express;263,64;24422-903
+F;13;Oui;Oui;[40k€+];Commercial;Minivan;yes;0;10.0;Highly Urban/ Urban;11/04/2022;complet;dev_integral;283,95;86420-904
+M;35;Non;Non;[40k€+];Private;z_SUV;no;4;1.0;Highly Urban/ Urban;04/02/2022;complet;dev_express;276,46;40827-905
+F;54;Non;Non;[20k€, 40k€];Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;22/01/2022;complet;dev_vip;791,88;55380-906
+M;42;Non;Non;[40k€+];Private;Minivan;yes;2;11.0;Highly Urban/ Urban;18/03/2022;complet;dev_express;266,13;57385-907
+F;55;Non;Oui;[0, 20k€];Private;Pickup;no;0;6.0;Highly Urban/ Urban;08/02/2022;complet;dev_integral;307,2;98658-908
+M;26;Oui;Oui;[0, 20k€];Commercial;z_SUV;no;0;8.0;z_Highly Rural/ Rural;21/02/2022;complet;dev_express;268,48;53460-909
+F;27;Non;Non;[40k€+];Commercial;Van;yes;2;;Highly Urban/ Urban;13/01/2022;complet;dev_integral;321,1;73075-910
+F;31;Oui;Oui;[40k€+];Private;Pickup;yes;0;11.0;Highly Urban/ Urban;20/05/2022;complet;dev_express;265,05;66299-911
+M;74;Non;Oui;[40k€+];Commercial;Pickup;no;2;1.0;Highly Urban/ Urban;19/02/2022;complet;dev_express;257,78;26733-912
+F;16;Non;Oui;[40k€+];Commercial;Pickup;yes;0;1.0;Highly Urban/ Urban;13/04/2022;complet;dev_premium;511,98;94381-913
+F;54;Non;Non;[40k€+];Commercial;z_SUV;no;0;8.0;z_Highly Rural/ Rural;25/03/2022;complet;dev_integral;328,69;17877-914
+F;26;Non;Non;[40k€+];Private;Sports Car;no;1;17.0;Highly Urban/ Urban;08/05/2022;complet;dev_express;259,8;24486-915
+M;70;Non;Oui;[0, 20k€];Commercial;z_SUV;no;3;8.0;Highly Urban/ Urban;08/01/2022;complet;dev_express;262,66;10815-916
+F;83;Non;Non;[0, 20k€];Commercial;Pickup;yes;2;1.0;z_Highly Rural/ Rural;20/02/2022;complet;dev_integral;297,38;85070-917
+F;46;Non;Non;[40k€+];Commercial;Sports Car;no;1;6.0;Highly Urban/ Urban;17/02/2022;complet;dev_integral;310,32;30735-918
+M;54;Non;Oui;[40k€+];Private;Minivan;no;0;9.0;Highly Urban/ Urban;24/01/2022;complet;dev_integral;339,93;91454-919
+F;78;Oui;Oui;[40k€+];Private;Sports Car;no;4;14.0;Highly Urban/ Urban;23/05/2022;complet;dev_integral;303,88;95494-920
+M;70;Non;Non;[40k€+];Commercial;z_SUV;no;0;11.0;Highly Urban/ Urban;12/05/2022;complet;dev_express;261,1;59951-921
+M;85;Oui;Oui;[40k€+];Private;z_SUV;no;0;6.0;Highly Urban/ Urban;25/02/2022;complet;dev_integral;288,18;81593-922
+F;62;Oui;Oui;[0, 20k€];Private;Minivan;yes;0;;Highly Urban/ Urban;20/05/2022;complet;dev_express;273,58;12799-923
+F;75;Non;Oui;[40k€+];Commercial;Panel Truck;yes;0;7.0;Highly Urban/ Urban;22/02/2022;complet;dev_premium;388,59;65383-924
+F;24;Oui;Oui;[20k€, 40k€];Private;Minivan;yes;0;6.0;Highly Urban/ Urban;23/02/2022;complet;dev_express;259,73;15819-925
+M;6;Non;Oui;[40k€+];Private;z_SUV;no;1;1.0;Highly Urban/ Urban;28/03/2022;complet;dev_premium;520,4;91754-926
+F;53;Non;Non;[0, 20k€];Commercial;z_SUV;no;0;7.0;z_Highly Rural/ Rural;02/05/2022;complet;dev_express;284,63;82749-927
+F;57;Non;Oui;[20k€, 40k€];Private;Sports Car;no;6;4.0;Highly Urban/ Urban;20/03/2022;complet;dev_integral;314,45;20937-928
+M;14;Non;Oui;[0, 20k€];Commercial;z_SUV;no;4;10.0;Highly Urban/ Urban;23/04/2022;complet;dev_integral;308,56;71211-929
+M;78;Non;Non;[40k€+];Commercial;Minivan;yes;11;7.0;Highly Urban/ Urban;11/04/2022;complet;dev_express;281,8;87298-930
+M;48;Non;Non;[40k€+];Commercial;Van;no;1;12.0;Highly Urban/ Urban;23/04/2022;complet;dev_premium;320,93;13427-931
+M;52;Non;Non;[20k€, 40k€];Commercial;Panel Truck;no;0;1.0;z_Highly Rural/ Rural;13/04/2022;complet;dev_express;279,52;41252-932
+M;10;Non;Non;[40k€+];Commercial;Pickup;yes;2;10.0;z_Highly Rural/ Rural;26/03/2022;complet;dev_integral;284,34;43192-933
+F;51;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;6.0;Highly Urban/ Urban;28/02/2022;complet;dev_integral;283,77;83038-934
+F;74;Non;Non;[40k€+];Private;Minivan;no;0;;Highly Urban/ Urban;18/03/2022;complet;dev_integral;315,24;47768-935
+M;57;Oui;Oui;[40k€+];Commercial;Minivan;no;4;1.0;Highly Urban/ Urban;17/02/2022;complet;dev_express;258,14;57349-936
+M;80;Non;Non;[40k€+];Commercial;Minivan;no;4;10.0;Highly Urban/ Urban;23/02/2022;complet;dev_premium;354,49;31056-937
+F;75;Non;Non;[40k€+];Private;Minivan;no;0;;Highly Urban/ Urban;23/01/2022;complet;dev_integral;283,16;46780-938
+M;27;Non;Oui;[20k€, 40k€];Private;Minivan;yes;0;;Highly Urban/ Urban;03/05/2022;complet;dev_integral;287,59;47159-939
+M;68;Non;Non;[20k€, 40k€];Private;Van;yes;1;12.0;Highly Urban/ Urban;17/01/2022;complet;dev_premium;526,21;42933-940
+M;47;Non;Non;[40k€+];Commercial;z_SUV;no;1;1.0;Highly Urban/ Urban;17/05/2022;complet;dev_integral;318,57;29573-941
+F;16;Oui;Oui;[40k€+];Commercial;Panel Truck;yes;3;1.0;Highly Urban/ Urban;08/02/2022;complet;dev_premium;421,64;36867-942
+M;57;Non;Oui;[20k€, 40k€];Private;z_SUV;no;0;8.0;Highly Urban/ Urban;06/01/2022;complet;dev_express;273,2;77645-943
+F;65;Non;Non;[40k€+];Commercial;Pickup;no;0;;Highly Urban/ Urban;18/03/2022;complet;dev_express;257,39;35349-944
+F;91;Non;Non;[40k€+];Private;Sports Car;no;4;8.0;Highly Urban/ Urban;20/04/2022;complet;dev_express;250,33;52156-945
+F;6;Non;Non;[40k€+];Private;z_SUV;no;6;16.0;Highly Urban/ Urban;05/01/2022;complet;dev_integral;338,38;44634-946
+F;17;Non;Oui;Inconnus;Private;Minivan;yes;1;8.0;Highly Urban/ Urban;07/03/2022;complet;dev_express;271,8;27677-947
+M;34;Non;Non;[40k€+];Private;Minivan;no;0;10.0;Highly Urban/ Urban;08/04/2022;complet;dev_premium;423,85;60331-948
+F;68;Non;Non;[40k€+];Commercial;Panel Truck;no;3;13.0;Highly Urban/ Urban;13/01/2022;complet;dev_integral;339,5;57323-949
+M;52;Non;Non;[40k€+];Private;Minivan;yes;0;19.0;Highly Urban/ Urban;22/01/2022;complet;dev_integral;292,54;87440-950
+M;72;Oui;Oui;[40k€+];Private;z_SUV;no;1;11.0;Highly Urban/ Urban;13/05/2022;complet;dev_premium;440,07;94742-951
+F;85;Oui;Oui;[20k€, 40k€];Private;z_SUV;no;2;19.0;Highly Urban/ Urban;01/03/2022;complet;dev_express;260,84;52383-952
+M;36;Non;Non;[0, 20k€];Private;Sports Car;no;2;5.0;z_Highly Rural/ Rural;17/05/2022;complet;dev_integral;315,11;71708-953
+M;78;Non;Non;[40k€+];Private;Minivan;no;2;19.0;Highly Urban/ Urban;27/02/2022;complet;dev_integral;339,13;35608-954
+M;5;Non;Oui;[0, 20k€];Private;z_SUV;no;2;8.0;Highly Urban/ Urban;14/01/2022;complet;dev_express;251,42;68630-955
+M;40;Oui;Oui;[0, 20k€];Private;z_SUV;no;4;11.0;z_Highly Rural/ Rural;12/04/2022;complet;dev_vip;562,31;32616-956
+F;61;Non;Non;Inconnus;Private;z_SUV;no;0;12.0;Highly Urban/ Urban;03/04/2022;complet;dev_integral;326,04;10403-957
+M;70;Oui;Oui;[20k€, 40k€];Commercial;Pickup;yes;0;7.0;Highly Urban/ Urban;15/02/2022;complet;dev_premium;354,48;45193-958
+F;53;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;15.0;Highly Urban/ Urban;21/04/2022;complet;dev_express;267,55;85843-959
+M;18;Non;Oui;[0, 20k€];Private;Sports Car;no;0;1.0;z_Highly Rural/ Rural;13/04/2022;complet;dev_premium;498,78;32313-960
+M;63;Non;Non;[0, 20k€];Commercial;Minivan;yes;2;8.0;Highly Urban/ Urban;11/02/2022;complet;dev_premium;447,61;71204-961
+F;66;Non;Non;[40k€+];Commercial;Pickup;yes;6;1.0;Highly Urban/ Urban;13/02/2022;complet;dev_premium;368,28;28351-962
+M;73;Non;Non;[40k€+];Private;z_SUV;no;1;15.0;Highly Urban/ Urban;16/05/2022;complet;dev_premium;364,79;98854-963
+F;57;Oui;Oui;[40k€+];Private;Minivan;no;0;20.0;Highly Urban/ Urban;18/03/2022;complet;dev_integral;327,51;84673-964
+F;69;Non;Non;[40k€+];Private;Minivan;no;5;;Highly Urban/ Urban;18/01/2022;complet;dev_express;282,75;17309-965
+F;16;Non;Non;[40k€+];Commercial;Panel Truck;no;1;12.0;Highly Urban/ Urban;23/05/2022;complet;dev_express;251,66;74224-966
+M;72;Non;Non;[40k€+];Private;z_SUV;no;0;16.0;Highly Urban/ Urban;16/03/2022;complet;dev_express;257,73;58005-967
+M;19;Non;Non;[40k€+];Private;Sports Car;yes;0;;Highly Urban/ Urban;04/04/2022;complet;dev_integral;328,3;59574-968
+M;48;Non;Oui;[20k€, 40k€];Private;Sports Car;no;0;1.0;Highly Urban/ Urban;31/03/2022;complet;dev_integral;291,93;24179-969
+F;50;Non;Non;[40k€+];Private;Minivan;no;1;22.0;Highly Urban/ Urban;28/02/2022;complet;dev_express;262,53;51178-970
+M;60;Non;Non;[40k€+];Private;Minivan;yes;0;1.0;z_Highly Rural/ Rural;16/04/2022;complet;dev_premium;413,86;94190-971
+F;48;Non;Non;[40k€+];Private;z_SUV;no;4;15.0;Highly Urban/ Urban;12/02/2022;complet;dev_premium;449,75;13090-972
+M;51;Non;Non;[0, 20k€];Private;z_SUV;no;0;13.0;z_Highly Rural/ Rural;29/01/2022;complet;dev_express;273,2;20926-973
+F;53;Non;Non;[0, 20k€];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;30/04/2022;complet;dev_express;270,23;98112-974
+F;76;Non;Non;[40k€+];Commercial;Van;no;0;18.0;Highly Urban/ Urban;25/02/2022;complet;dev_integral;307,28;50485-975
+M;16;Non;Oui;[20k€, 40k€];Private;Pickup;yes;3;1.0;Highly Urban/ Urban;30/04/2022;complet;dev_express;269,07;66543-976
+F;82;Non;Non;[40k€+];Private;Minivan;no;2;17.0;Highly Urban/ Urban;25/02/2022;complet;dev_express;259,39;39772-977
+F;56;Non;Non;[20k€, 40k€];Private;Minivan;no;1;1.0;z_Highly Rural/ Rural;06/05/2022;complet;dev_integral;333,57;83626-978
+F;60;Oui;Oui;[0, 20k€];Private;Pickup;yes;2;1.0;Highly Urban/ Urban;16/03/2022;complet;dev_integral;337,47;67445-979
+F;40;Non;Non;[20k€, 40k€];Private;Minivan;no;0;7.0;Highly Urban/ Urban;06/04/2022;complet;dev_integral;303,78;47379-980
+F;67;Non;Non;[40k€+];Private;Minivan;no;5;13.0;Highly Urban/ Urban;06/03/2022;complet;dev_integral;324,92;43762-981
+M;92;Non;Non;[40k€+];Private;Minivan;yes;0;16.0;Highly Urban/ Urban;04/03/2022;complet;dev_express;274,66;79984-982
+F;72;Non;Non;[40k€+];Private;Sports Car;no;0;10.0;Highly Urban/ Urban;06/05/2022;complet;dev_express;253,7;25350-983
+F;16;Non;Oui;[40k€+];Private;Pickup;no;3;21.0;Highly Urban/ Urban;01/02/2022;complet;dev_integral;324,12;39812-984
+M;63;Non;Oui;[40k€+];Commercial;Panel Truck;no;1;23.0;Highly Urban/ Urban;16/03/2022;complet;dev_express;251,99;97514-985
+F;59;Non;Non;[40k€+];Commercial;Panel Truck;no;2;8.0;Highly Urban/ Urban;13/03/2022;complet;dev_premium;390,63;87525-986
+M;4;Non;Non;[40k€+];Commercial;Pickup;no;0;1.0;Highly Urban/ Urban;16/04/2022;complet;dev_integral;335,07;33690-987
+M;41;Non;Non;[40k€+];Commercial;Panel Truck;yes;3;1.0;Highly Urban/ Urban;05/03/2022;complet;dev_express;277,84;52312-988
+M;62;Non;Non;[40k€+];Private;Minivan;no;6;17.0;Highly Urban/ Urban;19/03/2022;complet;dev_express;278,36;87695-989
+F;41;Non;Oui;[0, 20k€];Commercial;Pickup;no;0;1.0;z_Highly Rural/ Rural;01/05/2022;complet;dev_premium;443,86;26922-990
+M;16;Non;Non;[20k€, 40k€];Commercial;Sports Car;no;5;9.0;Highly Urban/ Urban;19/01/2022;complet;dev_integral;334,8;67306-991
+F;10;Non;Non;[20k€, 40k€];Private;Pickup;yes;3;11.0;Highly Urban/ Urban;23/01/2022;complet;dev_integral;283,24;10421-992
+F;60;Non;Non;Inconnus;Private;Minivan;no;0;1.0;Highly Urban/ Urban;15/03/2022;complet;dev_integral;288,43;53578-993
+F;12;Non;Non;[40k€+];Commercial;Sports Car;no;0;1.0;Highly Urban/ Urban;14/01/2022;complet;dev_integral;303,24;94499-994
+M;81;Non;Non;[20k€, 40k€];Private;Sports Car;no;3;1.0;Highly Urban/ Urban;22/01/2022;complet;dev_express;275,75;53231-995
+F;64;Non;Non;[40k€+];Private;Sports Car;no;0;15.0;Highly Urban/ Urban;03/03/2022;complet;dev_integral;282,45;88834-996
+M;30;Non;Oui;Inconnus;Private;z_SUV;no;1;8.0;z_Highly Rural/ Rural;01/04/2022;complet;dev_integral;310,43;75299-997
+M;70;Non;Non;[40k€+];Commercial;Van;yes;2;1.0;Highly Urban/ Urban;06/04/2022;complet;dev_integral;338,52;99473-998
+M;69;Non;Non;[40k€+];Commercial;Pickup;no;0;16.0;Highly Urban/ Urban;16/05/2022;complet;dev_express;268,58;52511-999
+M;18;Non;Non;[40k€+];Private;z_SUV;no;0;11.0;Highly Urban/ Urban;15/02/2022;complet;dev_express;271,33;40206-1000
+F;88;Non;Non;[0, 20k€];Private;z_SUV;no;2;4.0;z_Highly Rural/ Rural;16/02/2022;complet;dev_integral;304,97;43697-1001
+F;60;Non;Non;[40k€+];Private;z_SUV;yes;7;6.0;Highly Urban/ Urban;14/03/2022;complet;dev_express;269,54;52163-1002
+F;83;Non;Non;Inconnus;Private;z_SUV;no;0;5.0;z_Highly Rural/ Rural;22/04/2022;complet;dev_integral;318,22;69840-1003
+M;42;Non;Non;[40k€+];Private;Minivan;no;2;14.0;Highly Urban/ Urban;31/05/2022;complet;dev_integral;326,09;41138-1004
+F;44;Non;Non;[0, 20k€];Private;z_SUV;no;0;;Highly Urban/ Urban;25/02/2022;complet;dev_integral;302,22;44959-1005
+F;22;Non;Non;[0, 20k€];Private;Minivan;yes;0;4.0;Highly Urban/ Urban;12/03/2022;complet;dev_express;257,91;71632-1006
+M;52;Non;Non;[0, 20k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;25/05/2022;complet;dev_express;251,18;66703-1007
+F;50;Non;Oui;[0, 20k€];Private;z_SUV;no;3;1.0;Highly Urban/ Urban;11/02/2022;complet;dev_express;270,37;36034-1008
+M;61;Oui;Oui;[40k€+];Commercial;Panel Truck;no;0;12.0;Highly Urban/ Urban;09/02/2022;complet;dev_express;253,38;62846-1009
+F;60;Non;Oui;[20k€, 40k€];Private;z_SUV;no;0;12.0;Highly Urban/ Urban;23/04/2022;complet;dev_integral;283,64;76577-1010
+F;59;Non;Non;[40k€+];Private;z_SUV;no;2;10.0;Highly Urban/ Urban;06/03/2022;complet;dev_integral;331,34;75342-1011
+M;31;Non;Oui;[40k€+];Private;z_SUV;no;2;1.0;Highly Urban/ Urban;18/03/2022;complet;dev_express;257,25;43903-1012
+F;73;Non;Oui;[20k€, 40k€];Private;Pickup;no;10;1.0;Highly Urban/ Urban;29/03/2022;complet;dev_express;252,38;72024-1013
+M;17;Non;Non;[20k€, 40k€];Commercial;Pickup;yes;0;1.0;z_Highly Rural/ Rural;30/03/2022;complet;dev_express;270,11;44745-1014
+M;70;Non;Oui;[40k€+];Private;Minivan;yes;0;1.0;Highly Urban/ Urban;18/05/2022;complet;dev_express;284,97;28104-1015
+M;61;Oui;Oui;[40k€+];Private;Minivan;yes;6;9.0;Highly Urban/ Urban;01/05/2022;complet;dev_integral;282,75;29524-1016
+M;86;Non;Non;[40k€+];Private;Minivan;yes;0;18.0;z_Highly Rural/ Rural;04/03/2022;complet;dev_express;278;12469-1017
+M;45;Oui;Oui;[40k€+];Private;Minivan;yes;0;14.0;Highly Urban/ Urban;12/03/2022;complet;dev_premium;531,38;63962-1018
+M;58;Non;Non;[20k€, 40k€];Commercial;Minivan;yes;3;10.0;Highly Urban/ Urban;14/03/2022;complet;dev_express;270,79;98866-1019
+F;25;Non;Non;[40k€+];Private;Minivan;yes;5;18.0;Highly Urban/ Urban;29/01/2022;complet;dev_premium;367,37;72762-1020
+F;75;Non;Non;[0, 20k€];Private;Sports Car;no;3;7.0;z_Highly Rural/ Rural;09/05/2022;complet;dev_premium;540,82;44903-1021
+F;49;Non;Non;[40k€+];Private;Sports Car;no;0;18.0;Highly Urban/ Urban;15/01/2022;complet;dev_premium;493,54;32723-1022
+M;17;Non;Non;[20k€, 40k€];Private;Minivan;yes;1;1.0;z_Highly Rural/ Rural;11/05/2022;complet;dev_express;272,88;65500-1023
+M;59;Non;Oui;[40k€+];Private;z_SUV;no;0;;Highly Urban/ Urban;22/05/2022;complet;dev_integral;307,23;22654-1024
+M;60;Non;Oui;[40k€+];Private;Sports Car;no;0;15.0;Highly Urban/ Urban;16/03/2022;complet;dev_premium;544,38;53589-1025
+F;82;Non;Non;[40k€+];Private;z_SUV;no;4;15.0;Highly Urban/ Urban;10/02/2022;complet;dev_express;275,59;73512-1026
+F;43;Non;Oui;[0, 20k€];Private;z_SUV;no;4;6.0;Highly Urban/ Urban;30/05/2022;complet;dev_express;256,94;21268-1027
+M;6;Non;Non;[0, 20k€];Commercial;z_SUV;no;1;11.0;Highly Urban/ Urban;10/01/2022;complet;dev_integral;306,95;28626-1028
+M;29;Oui;Oui;[20k€, 40k€];Private;z_SUV;no;2;6.0;Highly Urban/ Urban;21/05/2022;complet;dev_integral;297,22;74803-1029
+M;36;Non;Non;[40k€+];Private;Van;yes;4;1.0;Highly Urban/ Urban;09/04/2022;complet;dev_express;267,27;46482-1030
+F;63;Non;Oui;[40k€+];Commercial;Pickup;yes;5;11.0;Highly Urban/ Urban;13/02/2022;complet;dev_vip;828,68;18893-1031
+M;47;Non;Non;[0, 20k€];Private;z_SUV;no;7;6.0;z_Highly Rural/ Rural;25/02/2022;complet;dev_integral;281,86;11640-1032
+F;73;Oui;Oui;[40k€+];Private;Minivan;no;6;12.0;Highly Urban/ Urban;02/01/2022;complet;dev_integral;321,45;88085-1033
+M;59;Non;Oui;[40k€+];Private;Sports Car;no;0;;Highly Urban/ Urban;02/04/2022;complet;dev_express;283,51;75348-1034
+M;52;Non;Oui;Inconnus;Private;Pickup;no;2;1.0;z_Highly Rural/ Rural;03/05/2022;complet;dev_premium;427,77;43456-1035
+M;57;Non;Non;Inconnus;Private;Van;no;1;14.0;Highly Urban/ Urban;25/04/2022;complet;dev_express;276,58;32541-1036
+F;43;Non;Non;[0, 20k€];Private;Pickup;yes;4;16.0;z_Highly Rural/ Rural;08/03/2022;complet;dev_integral;321,24;84419-1037
+F;30;Non;Oui;[20k€, 40k€];Commercial;Minivan;yes;6;;Highly Urban/ Urban;31/05/2022;complet;dev_integral;332,89;35507-1038
+M;45;Non;Oui;Inconnus;Commercial;Pickup;yes;0;8.0;z_Highly Rural/ Rural;21/01/2022;complet;dev_integral;291,58;30228-1039
+M;75;Non;Non;[0, 20k€];Private;z_SUV;no;1;1.0;Highly Urban/ Urban;27/04/2022;complet;dev_integral;315,24;11882-1040
+F;33;Non;Oui;[20k€, 40k€];Private;Minivan;no;0;1.0;Highly Urban/ Urban;25/04/2022;complet;dev_integral;291,28;61949-1041
+M;86;Non;Oui;[40k€+];Private;z_SUV;no;0;15.0;Highly Urban/ Urban;05/03/2022;complet;dev_integral;281,15;29131-1042
+F;4;Non;Non;[0, 20k€];Private;z_SUV;no;0;1.0;Highly Urban/ Urban;21/01/2022;complet;dev_integral;298,22;57229-1043
+M;31;Non;Non;[40k€+];Commercial;Panel Truck;no;4;15.0;Highly Urban/ Urban;25/04/2022;complet;dev_integral;307,11;49707-1044
+M;82;Non;Non;[0, 20k€];Private;Minivan;no;1;14.0;Highly Urban/ Urban;29/03/2022;complet;dev_integral;288,21;82176-1045
+M;47;Non;Non;[0, 20k€];Commercial;Sports Car;no;6;10.0;Highly Urban/ Urban;13/02/2022;complet;dev_integral;291,09;60281-1046
+M;38;Non;Non;[0, 20k€];Private;Sports Car;no;0;1.0;z_Highly Rural/ Rural;11/02/2022;complet;dev_express;262,39;77455-1047
+F;39;Non;Non;[0, 20k€];Commercial;Panel Truck;yes;0;9.0;z_Highly Rural/ Rural;28/05/2022;complet;dev_integral;284,65;50665-1048
+M;57;Non;Non;[40k€+];Private;Minivan;no;4;8.0;Highly Urban/ Urban;03/04/2022;complet;dev_integral;326,26;81910-1049
+F;36;Non;Non;[20k€, 40k€];Private;z_SUV;no;3;9.0;z_Highly Rural/ Rural;20/05/2022;complet;dev_integral;320,46;55953-1050
+M;73;Non;Non;[40k€+];Private;Minivan;yes;0;6.0;Highly Urban/ Urban;22/04/2022;complet;dev_express;252,55;72212-1051
+M;91;Non;Non;[40k€+];Commercial;z_SUV;no;0;8.0;Highly Urban/ Urban;29/01/2022;complet;dev_integral;334,04;53524-1052
+M;24;Non;Oui;[0, 20k€];Private;Minivan;yes;3;1.0;Highly Urban/ Urban;21/05/2022;complet;dev_integral;300,34;34574-1053
+M;27;Non;Non;Inconnus;Commercial;Minivan;no;0;8.0;Highly Urban/ Urban;04/05/2022;complet;dev_integral;323,03;69517-1054
+F;71;Non;Non;[20k€, 40k€];Private;Minivan;yes;4;12.0;Highly Urban/ Urban;25/01/2022;complet;dev_premium;473,62;65064-1055
+M;75;Non;Non;[40k€+];Commercial;Panel Truck;no;0;1.0;Highly Urban/ Urban;27/01/2022;complet;dev_integral;327,5;94556-1056
+M;93;Non;Non;[40k€+];Private;Pickup;no;2;17.0;Highly Urban/ Urban;11/03/2022;complet;dev_integral;318,21;99495-1057
+F;67;Non;Oui;[40k€+];Commercial;Minivan;no;0;1.0;z_Highly Rural/ Rural;25/05/2022;complet;dev_integral;316,18;32164-1058
+F;79;Non;Oui;[40k€+];Commercial;Minivan;no;1;5.0;Highly Urban/ Urban;20/01/2022;complet;dev_premium;512,18;72880-1059
+F;17;Non;Non;[40k€+];Commercial;Pickup;yes;0;1.0;Highly Urban/ Urban;22/04/2022;complet;dev_integral;329,14;36225-1060
+F;72;Non;Non;[40k€+];Commercial;Panel Truck;no;7;15.0;Highly Urban/ Urban;10/02/2022;complet;dev_integral;284,39;33051-1061
+M;55;Non;Non;[40k€+];Commercial;Panel Truck;no;4;15.0;Highly Urban/ Urban;24/02/2022;complet;dev_express;268,69;55589-1062
+F;73;Non;Non;[40k€+];Private;Sports Car;no;2;12.0;Highly Urban/ Urban;17/03/2022;complet;dev_express;275,2;64499-1063
+F;23;Oui;Non;[40k€+];Private;z_SUV;no;4;;Highly Urban/ Urban;04/03/2022;complet;dev_express;254,89;23343-1064
+M;42;Non;Non;[0, 20k€];Private;z_SUV;no;0;1.0;z_Highly Rural/ Rural;20/04/2022;complet;dev_express;254,92;39604-1065
+F;64;Non;Non;[40k€+];Private;Van;no;4;12.0;Highly Urban/ Urban;30/01/2022;complet;dev_express;274,35;28363-1066
+M;58;Non;Non;[20k€, 40k€];Private;Minivan;yes;3;17.0;Highly Urban/ Urban;11/02/2022;complet;dev_integral;288,86;63641-1067
+F;72;Non;Oui;[40k€+];Private;Sports Car;no;0;1.0;Highly Urban/ Urban;05/03/2022;complet;dev_integral;287,04;37306-1068
+F;80;Non;Non;[20k€, 40k€];Commercial;Van;no;7;1.0;Highly Urban/ Urban;16/02/2022;complet;dev_express;269,57;26580-1069
+F;11;Non;Non;[40k€+];Private;Van;yes;0;12.0;Highly Urban/ Urban;25/01/2022;complet;dev_integral;332,22;34184-1070
+F;51;Oui;Oui;[40k€+];Commercial;Pickup;yes;0;1.0;z_Highly Rural/ Rural;06/03/2022;complet;dev_express;266;98571-1071
+F;47;Oui;Oui;[40k€+];Commercial;Van;no;0;1.0;Highly Urban/ Urban;15/04/2022;complet;dev_express;268,23;46962-1072
+M;51;Oui;Oui;[40k€+];Commercial;Van;yes;0;11.0;z_Highly Rural/ Rural;24/03/2022;complet;dev_integral;300,69;78302-1073
+F;38;Non;Non;[40k€+];Commercial;Panel Truck;yes;3;19.0;Highly Urban/ Urban;06/02/2022;complet;dev_integral;318,82;70385-1074
+F;69;Non;Non;[40k€+];Commercial;Pickup;no;1;12.0;Highly Urban/ Urban;27/03/2022;complet;dev_integral;322,82;45580-1075
+F;74;Oui;Oui;[20k€, 40k€];Private;Van;no;0;;Highly Urban/ Urban;28/02/2022;complet;dev_express;255,02;72885-1076
+F;49;Oui;Oui;[20k€, 40k€];Private;Pickup;yes;0;7.0;Highly Urban/ Urban;17/02/2022;complet;dev_express;264,41;43112-1077
+F;58;Non;Non;[40k€+];Private;z_SUV;no;3;8.0;Highly Urban/ Urban;21/03/2022;complet;dev_integral;308,53;22392-1078
+F;55;Non;Non;[20k€, 40k€];Commercial;Panel Truck;yes;0;1.0;Highly Urban/ Urban;29/04/2022;complet;dev_express;268,28;94217-1079
+M;23;Non;Non;[40k€+];Private;Minivan;yes;5;10.0;Highly Urban/ Urban;21/04/2022;complet;dev_express;259,87;48691-1080
+F;27;Non;Non;[40k€+];Commercial;Panel Truck;yes;2;1.0;Highly Urban/ Urban;19/01/2022;complet;dev_integral;303,47;67840-1081
+M;75;Non;Oui;[40k€+];Private;Minivan;no;0;15.0;Highly Urban/ Urban;09/03/2022;complet;dev_integral;333,73;40949-1082
+M;39;Non;Non;[40k€+];Private;Sports Car;no;3;17.0;Highly Urban/ Urban;01/03/2022;complet;dev_express;259,31;19416-1083
+M;19;Non;Non;[40k€+];Private;z_SUV;no;0;18.0;Highly Urban/ Urban;25/02/2022;complet;dev_express;284,29;76722-1084
+F;20;Non;Oui;[40k€+];Commercial;Minivan;yes;0;1.0;Highly Urban/ Urban;06/04/2022;complet;dev_integral;318,58;39804-1085
+F;72;Oui;Oui;[0, 20k€];Private;Sports Car;no;4;4.0;Highly Urban/ Urban;04/04/2022;complet;dev_express;277,58;48580-1086
+F;39;Oui;Oui;[40k€+];Private;Minivan;no;5;1.0;Highly Urban/ Urban;04/02/2022;complet;dev_express;263,24;16635-1087
+M;83;Non;Non;Inconnus;Commercial;Van;yes;2;8.0;Highly Urban/ Urban;06/01/2022;complet;dev_express;251,49;24911-1088
+F;22;Non;Non;[40k€+];Private;z_SUV;no;0;14.0;Highly Urban/ Urban;15/03/2022;complet;dev_integral;307,83;60394-1089
+M;55;Non;Oui;[40k€+];Commercial;Van;yes;3;1.0;Highly Urban/ Urban;23/01/2022;complet;dev_express;268,95;35748-1090
+M;68;Non;Non;[20k€, 40k€];Private;Pickup;yes;0;1.0;Highly Urban/ Urban;18/02/2022;complet;dev_integral;312;86432-1091
+F;60;Non;Oui;[20k€, 40k€];Private;Sports Car;yes;8;6.0;Highly Urban/ Urban;09/02/2022;complet;dev_integral;284,16;93248-1092
+F;47;Non;Oui;[40k€+];Commercial;Pickup;no;0;6.0;z_Highly Rural/ Rural;07/04/2022;complet;dev_integral;330,18;50504-1093
+F;44;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;16.0;z_Highly Rural/ Rural;03/04/2022;complet;dev_integral;325,9;84796-1094
+F;8;Oui;Oui;[0, 20k€];Commercial;Pickup;no;0;19.0;Highly Urban/ Urban;01/03/2022;complet;dev_integral;322,04;57433-1095
+F;56;Oui;Oui;[40k€+];Private;Minivan;no;5;13.0;Highly Urban/ Urban;31/03/2022;complet;dev_premium;320,67;32521-1096
+F;48;Non;Oui;[0, 20k€];Private;Minivan;no;4;8.0;Highly Urban/ Urban;24/01/2022;complet;dev_express;257,28;44692-1097
+F;60;Non;Non;[40k€+];Commercial;Panel Truck;yes;1;;z_Highly Rural/ Rural;24/02/2022;complet;dev_integral;284,26;44800-1098
+M;5;Non;Non;[40k€+];Commercial;Minivan;no;4;12.0;Highly Urban/ Urban;26/01/2022;complet;dev_express;264,28;60460-1099
+M;78;Oui;Oui;Inconnus;Commercial;z_SUV;no;3;9.0;Highly Urban/ Urban;07/02/2022;complet;dev_express;270,67;13791-1100
+M;41;Non;Oui;[40k€+];Private;Van;no;0;13.0;Highly Urban/ Urban;11/03/2022;complet;dev_vip;931,18;70065-1101
+F;72;Non;Non;[20k€, 40k€];Private;Minivan;yes;2;9.0;z_Highly Rural/ Rural;08/03/2022;complet;dev_integral;328,13;60411-1102
+M;40;Non;Non;[40k€+];Private;Minivan;yes;1;8.0;Highly Urban/ Urban;15/04/2022;complet;dev_express;269,67;48333-1103
+F;59;Non;Non;[40k€+];Commercial;z_SUV;no;0;9.0;Highly Urban/ Urban;29/05/2022;complet;dev_integral;304,48;59940-1104
+M;16;Non;Non;[40k€+];Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;16/04/2022;complet;dev_express;269,97;72431-1105
+M;8;Oui;Oui;[40k€+];Commercial;Panel Truck;no;9;16.0;Highly Urban/ Urban;22/01/2022;complet;dev_express;261,36;87797-1106
+M;10;Non;Non;[40k€+];Commercial;Panel Truck;yes;0;12.0;Highly Urban/ Urban;27/03/2022;complet;dev_premium;342,91;53382-1107
+M;7;Non;Oui;[40k€+];Private;z_SUV;no;0;10.0;Highly Urban/ Urban;04/01/2022;complet;dev_integral;298,67;82067-1108
+F;65;Non;Non;[40k€+];Commercial;Van;no;8;8.0;Highly Urban/ Urban;13/02/2022;complet;dev_integral;328,59;85759-1109
+M;39;Non;Oui;[40k€+];Private;z_SUV;no;5;14.0;Highly Urban/ Urban;19/03/2022;complet;dev_premium;341,41;78639-1110
+M;64;Non;Non;[0, 20k€];Commercial;Pickup;no;1;1.0;Highly Urban/ Urban;23/03/2022;complet;dev_integral;317,96;29565-1111
+M;34;Non;Non;[40k€+];Private;Sports Car;no;0;21.0;Highly Urban/ Urban;24/02/2022;complet;dev_express;278,24;87650-1112
+M;74;Non;Non;[0, 20k€];Private;Sports Car;no;1;1.0;Highly Urban/ Urban;30/05/2022;complet;dev_integral;338,91;19764-1113
+M;67;Non;Non;[20k€, 40k€];Private;Van;yes;3;4.0;Highly Urban/ Urban;02/03/2022;complet;dev_express;268,05;61447-1114
+F;67;Non;Non;[40k€+];Private;Minivan;no;0;16.0;Highly Urban/ Urban;20/05/2022;complet;dev_integral;323,67;77517-1115
+F;48;Non;Non;[40k€+];Private;Pickup;yes;0;10.0;Highly Urban/ Urban;29/04/2022;complet;dev_integral;336,83;93478-1116
+M;18;Non;Oui;[20k€, 40k€];Private;Pickup;yes;1;7.0;Highly Urban/ Urban;25/01/2022;complet;dev_express;255;26143-1117
+F;42;Non;Non;[40k€+];Commercial;Pickup;yes;1;1.0;Highly Urban/ Urban;03/03/2022;complet;dev_integral;313,6;20108-1118
+M;82;Non;Non;[40k€+];Private;Minivan;yes;0;9.0;Highly Urban/ Urban;16/02/2022;complet;dev_express;283,44;75803-1119
+F;32;Non;Non;[40k€+];Private;Minivan;yes;1;12.0;Highly Urban/ Urban;08/04/2022;complet;dev_integral;328,75;63737-1120
+M;22;Non;Non;[40k€+];Private;Sports Car;no;0;9.0;Highly Urban/ Urban;24/05/2022;complet;dev_integral;335,74;92135-1121
+F;59;Non;Non;[40k€+];Commercial;Panel Truck;yes;1;15.0;Highly Urban/ Urban;02/03/2022;complet;dev_integral;302,02;27716-1122
+F;81;Non;Non;[40k€+];Commercial;Panel Truck;yes;1;12.0;Highly Urban/ Urban;09/02/2022;complet;dev_premium;355,52;52360-1123
+M;20;Oui;Oui;[20k€, 40k€];Commercial;Minivan;no;2;4.0;Highly Urban/ Urban;24/01/2022;complet;dev_integral;332,23;70636-1124
+F;6;Non;Oui;[40k€+];Commercial;Pickup;no;0;11.0;z_Highly Rural/ Rural;20/03/2022;complet;dev_express;255,53;92478-1125
+M;10;Non;Non;[40k€+];Private;Pickup;yes;1;12.0;Highly Urban/ Urban;16/03/2022;complet;dev_integral;310,59;83034-1126
+M;19;Non;Non;[0, 20k€];Commercial;Minivan;yes;0;11.0;z_Highly Rural/ Rural;15/03/2022;complet;dev_express;267,62;91895-1127
+F;10;Non;Non;[40k€+];Private;z_SUV;no;0;8.0;z_Highly Rural/ Rural;24/05/2022;complet;dev_integral;301,27;95606-1128
+M;11;Non;Non;[40k€+];Private;z_SUV;no;4;7.0;Highly Urban/ Urban;26/03/2022;complet;dev_integral;325,75;77090-1129
+F;10;Non;Non;[40k€+];Private;z_SUV;no;5;4.0;Highly Urban/ Urban;28/05/2022;complet;dev_integral;319,13;75007-1130
+F;73;Non;Non;[40k€+];Private;z_SUV;no;1;12.0;Highly Urban/ Urban;19/04/2022;complet;dev_integral;300,19;97019-1131
+F;36;Non;Non;[20k€, 40k€];Private;Minivan;no;0;1.0;Highly Urban/ Urban;04/04/2022;complet;dev_express;279,12;31622-1132
+F;45;Non;Oui;[40k€+];Private;Minivan;yes;3;8.0;Highly Urban/ Urban;25/01/2022;complet;dev_express;273,56;81592-1133
+F;89;Non;Non;[20k€, 40k€];Private;z_SUV;no;1;10.0;z_Highly Rural/ Rural;25/02/2022;complet;dev_integral;332,38;36067-1134
+M;32;Non;Oui;[40k€+];Private;z_SUV;no;0;7.0;Highly Urban/ Urban;07/03/2022;complet;dev_integral;291,76;38255-1135
+F;91;Non;Oui;[20k€, 40k€];Private;z_SUV;no;0;12.0;Highly Urban/ Urban;11/05/2022;complet;dev_integral;304,82;68118-1136
+F;66;Non;Non;[20k€, 40k€];Private;z_SUV;no;3;;Highly Urban/ Urban;25/05/2022;complet;dev_express;270,99;66800-1137
+F;16;Non;Non;[20k€, 40k€];Private;Sports Car;no;10;2.0;Highly Urban/ Urban;07/02/2022;complet;dev_integral;306,89;95206-1138
+F;51;Non;Non;[20k€, 40k€];Private;z_SUV;no;0;10.0;Highly Urban/ Urban;02/03/2022;complet;dev_express;261,76;51924-1139
+M;5;Non;Non;[20k€, 40k€];Private;Pickup;no;3;1.0;Highly Urban/ Urban;29/04/2022;complet;dev_integral;328,89;35451-1140
+M;72;Oui;Oui;[0, 20k€];Private;Sports Car;no;0;12.0;z_Highly Rural/ Rural;27/02/2022;complet;dev_integral;293,34;28022-1141
+F;73;Non;Non;[20k€, 40k€];Commercial;Pickup;yes;2;7.0;z_Highly Rural/ Rural;10/02/2022;complet;dev_express;272,55;33816-1142
+F;68;Non;Non;[40k€+];Private;Pickup;yes;4;22.0;Highly Urban/ Urban;07/05/2022;complet;dev_integral;327,5;64602-1143
+F;84;Oui;Oui;[40k€+];Commercial;Panel Truck;no;0;;z_Highly Rural/ Rural;19/05/2022;complet;dev_integral;297,55;87808-1144
+M;71;Non;Oui;[0, 20k€];Private;Sports Car;no;2;7.0;Highly Urban/ Urban;24/03/2022;complet;dev_express;268,53;71768-1145
+M;52;Non;Non;[40k€+];Private;Minivan;yes;3;21.0;Highly Urban/ Urban;18/01/2022;complet;dev_express;266,87;88202-1146
+M;79;Non;Oui;[40k€+];Private;z_SUV;no;7;1.0;Highly Urban/ Urban;14/03/2022;complet;dev_integral;294,29;22441-1147
+F;83;Non;Non;[20k€, 40k€];Private;z_SUV;no;0;6.0;z_Highly Rural/ Rural;25/01/2022;complet;dev_express;278,53;47583-1148
+F;10;Non;Non;[40k€+];Private;Minivan;yes;0;7.0;Highly Urban/ Urban;02/05/2022;complet;dev_premium;504,9;47257-1149
+M;72;Non;Non;[40k€+];Commercial;Minivan;no;7;10.0;Highly Urban/ Urban;08/04/2022;complet;dev_express;261,57;82456-1150
+M;63;Oui;Oui;[20k€, 40k€];Commercial;Pickup;no;3;9.0;Highly Urban/ Urban;17/05/2022;complet;dev_express;258,82;24824-1151
+M;68;Non;Non;[40k€+];Commercial;Panel Truck;yes;5;20.0;Highly Urban/ Urban;20/02/2022;complet;dev_integral;333,27;89427-1152
+M;85;Non;Non;[20k€, 40k€];Private;z_SUV;no;1;8.0;z_Highly Rural/ Rural;03/01/2022;complet;dev_integral;334,4;60800-1153
+F;65;Non;Non;[40k€+];Private;Minivan;yes;2;20.0;Highly Urban/ Urban;27/05/2022;complet;dev_express;262,45;32643-1154
+M;13;Non;Non;[40k€+];Private;Minivan;no;2;1.0;z_Highly Rural/ Rural;22/05/2022;complet;dev_express;283,55;51704-1155
+F;64;Non;Non;[40k€+];Private;Minivan;no;3;1.0;Highly Urban/ Urban;23/01/2022;complet;dev_integral;324,67;85963-1156
+F;74;Non;Non;[40k€+];Commercial;Van;no;6;4.0;Highly Urban/ Urban;19/01/2022;complet;dev_premium;470,99;23786-1157
+M;91;Oui;Non;[40k€+];Private;Minivan;no;0;1.0;z_Highly Rural/ Rural;08/05/2022;complet;dev_integral;313,89;93406-1158
